@@ -125,8 +125,6 @@ https://mf.fazoeli.co.za/fontes/megaflix/max3.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/max4.m3u8
 #EXTINF:-1 tvg-name="Megapix" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_megapix0001.png",Megapix
 https://mf.fazoeli.co.za/fontes/megaflix/megapix.m3u8
-#EXTINF:-1 tvg-name="Modo Viagem" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_maisglobosat0001.png",Modo Viagem
-https://files.catbox.moe/llbhb7.png
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_mtv0001.png",MTV
 https://mf.fazoeli.co.za/fontes/megaflix/mtv.m3u8
 #EXTINF:-1 tvg-name="Multishow" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_multishow0001.png",Multishow
