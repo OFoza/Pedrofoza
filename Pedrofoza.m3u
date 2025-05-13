@@ -3,13 +3,13 @@
 https://mf.fazoeli.co.za/fontes/megaflix/ae.m3u8
 #EXTINF:-1 tvg-name="Adult Swim" tvg-logo="https://i.imgur.com/4TEXo8R.png",Adult Swim
 https://mf.fazoeli.co.za/fontes/megaflix/adultswim.m3u8
-#EXTINF:-1 tvg-name="AMC" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_amc0001.png",AMC
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png",AMC
 https://filmestorrent20.com/amc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_axn0001.png",AXN
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
 https://mf.fazoeli.co.za/fontes/megaflix/axn.m3u8
 #EXTINF:-1 tvg-name="Arte1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png",Arte1
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292-3-main.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_animplanet0001.png",Animal Planet
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
 https://mf.fazoeli.co.za/fontes/megaflix/animalplanet.m3u8
 #EXTINF:-1 tvg-name="Band" tvg-logo="https://files.catbox.moe/8e1ps2.png",Band
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
@@ -17,11 +17,11 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w708199981.m3u8
 #EXTINF:-1 tvg-name="Band ALT 2" tvg-logo="https://files.catbox.moe/8e1ps2.png",Band ALT 2
 https://live-c2.cf.dmcdn.net/sec2(gZvyUm-MEN0AJzv8V_bYkvENbM_Oc8AsYk23yXuN9XRvDsS5EThCJ_w0q5zSr2YvNVCWom3oOsQXvoepSUtpP3GNenWSgMCK8JIcYZwwu6Abg74uZsW-JQQjbIFvs1Hs)/cloud/3/x83vbd6/s/live-1080.m3u8#cell=lcfc2
-#EXTINF:-1 tvg-name="Band News" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_bandnews0001.png",Band News
+#EXTINF:-1 tvg-name="Band News" tvg-logo="https://files.catbox.moe/1now9h.png",Band News
 https://mf.fazoeli.co.za/fontes/megaflix/bandnews.m3u8
-#EXTINF:-1 tvg-name="Band News RJ" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_band0001.png",Band News RJ
+#EXTINF:-1 tvg-name="Band News RJ" tvg-logo="https://files.catbox.moe/1now9h.png",Band News RJ
 https://iptv.vivatele.com/live/viva_padrao/viva2384/21.m3u8
-#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_bandsports0001.png",Band Sports
+#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png",Band Sports
 https://mf.fazoeli.co.za/fontes/megaflix/bandsports.m3u8
 #EXTINF:-1 tvg-name="Canal Goat" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_canalgoat0002.png",Canal Goat
 https://mf.fazoeli.co.za/fontes/megaflix/goat.m3u8
@@ -35,9 +35,9 @@ https://iptv.vivatele.com/live/viva_padrao/viva2384/7.m3u8
 https://iptv.vivatele.com/live/viva_padrao/viva2384/5.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cartoon0001.png",Cartoon Network
 https://mf.fazoeli.co.za/fontes/megaflix/cartoonnetwork.m3u8
-#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cartoonito0001.png",Cartoonito
+#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png",Cartoonito
 https://mf.fazoeli.co.za/fontes/megaflix/cartoonito.m3u8
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cinemax0001.png",Cinemax
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",Cinemax
 https://mf.fazoeli.co.za/fontes/megaflix/cinemax.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cnnbrasil0001.png",CNN Brasil
 https://mf.fazoeli.co.za/fontes/megaflix/cnnbrasil.m3u8
