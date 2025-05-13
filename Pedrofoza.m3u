@@ -88,7 +88,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/globosp.m3u8
 #EXTINF:-1 tvg-name="Globo SP ALT" tvg-logo="https://files.catbox.moe/hpxpmf.png",Globo SP ALT
 https://fazoeli.fun/token/a601681777ff54bd1f632d0302466c3e/nossoplayer.m3u8
 #EXTINF:-1 tvg-name="Globo RPC Curitiba" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png",Globo RPC Curitiba
-https://live-as-08-16.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDgtMTYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQ2MjkyOTIxLCJpYXQiOjE3NDYyMDY1MjEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYzhiMDQ1YjQtNzEwMi00NjYyLTg3NjUtZTI3MjM5NWRiM2VlIiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tY3VyL3BsYXlsaXN0Lm0zdTgifQ.S1HURT2BjVYKhM42f4YFUer5F-M8kJI-Waqbe62SPepbGITl10lCyb3gDukpYy_ru6nNWzjF35oFL7C9_LfIKyvHuMiwIsLO-SUrUj6U0ipRKZbc-FzqiJ-YMzxYCYHW5oPPwm_FBJE0DDQiWB7wMvO2ZgNf81cFE8K7yNAcx4yLYteiB6QrKIP7sMkS6E-jasf3B0LXjb7j_KjfAd1knuSOKAkcIkNYF9XPJ2lV8iI07LcdCSE3GgiA87qKAZ8TB2BjvKZSnR-MrZm35vsgbIFyUk3KmCJQhUxNmRwe9x0VF386N_dCGG-OFTKeAU44Do1-ibntb3_5-7hf3kPAqw/nu/f(i=2)/globo-cur/globo-cur-audio_1=96000-video=3442944.m3u8
+https://files.catbox.moe/llbhb7.png
 #EXTINF:-1 tvg-name="Globo News" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_globonews0001.png",Globo News
 https://mf.fazoeli.co.za/fontes/megaflix/globonews.m3u8
 #EXTINF:-1 tvg-name="Gloob" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_gloob0001.png",Gloob
@@ -145,8 +145,6 @@ https://mf.fazoeli.co.za/fontes/megaflix/nickelodeon.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 #EXTINF:-1 tvg-name="Off" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Canal_Off_logo.svg",Off
 https://fazoeli.fun/token/2834b0d06b83c483cbf42a49114075e4/embedtv.m3u8
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_paramount0001.png",Paramount Network
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.mpd
 #EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",Paramount Network
 https://files.catbox.moe/llbhb7.png
 #EXTINF:-1 tvg-name="Paramount+" tvg-logo="https://i.imgur.com/YlKpabZ.png",Paramount+
