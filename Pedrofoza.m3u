@@ -39,7 +39,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/cartoonnetwork.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/cartoonito.m3u8
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",Cinemax
 https://mf.fazoeli.co.za/fontes/megaflix/cinemax.m3u8
-#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cnnbrasil0001.png",CNN Brasil
+#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png",CNN Brasil
 https://mf.fazoeli.co.za/fontes/megaflix/cnnbrasil.m3u8
 #EXTINF:-1 tvg-name="Combate" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_combate0001.png",Combate
 https://mf.fazoeli.co.za/fontes/megaflix/combate.m3u8
@@ -47,7 +47,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/combate.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/comedycentral.m3u8
 #EXTINF:-1 tvg-name="Curta!" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_curta0001.png",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist_w1529374029.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1200px-2019_Discovery_logo.svg.png",Discovery Channel
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://files.catbox.moe/t6i76g.png",Discovery Channel
 https://mf.fazoeli.co.za/fontes/megaflix/discoverychannel.m3u8
 #EXTINF:-1 tvg-name="Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",Discovery Home & Health
 https://mf.fazoeli.co.za/fontes/megaflix/discoveryhh.m3u8
@@ -69,17 +69,17 @@ https://embedcanaistv.club/disneychannel/tracks-v1a1/mono.ts.m3u8
 https://anoncloud.stream/Content/Channel/SPOENTHD/dsc1/manifest.mpd
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://files.catbox.moe/swjcfl.png",ESPN
 https://mf.fazoeli.co.za/fontes/megaflix/espn.m3u8
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_espntwo0001.png",ESPN 2
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://files.catbox.moe/fpihnw.png",ESPN 2
 https://mf.fazoeli.co.za/fontes/megaflix/espn2.m3u8
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_espn0001.png",ESPN 3
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
 https://mf.fazoeli.co.za/fontes/megaflix/espn3.m3u8
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_espn0001.png",ESPN 4
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4
 https://mf.fazoeli.co.za/fontes/megaflix/espn4.m3u8
-#EXTINF:-1 tvg-name="FX" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_fishtv0001.png",FX
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2560px-FX-logo.svg.png",FX
 https://mf.fazoeli.co.za/token/074c18d19f34e7db400c1dfbf56a1644/megaflix.m3u8
-#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_foodnetwork0001.png",Food Network
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",Food Network
 https://mf.fazoeli.co.za/fontes/megaflix/foodnetwork.m3u8
-#EXTINF:-1 tvg-name="Futura" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_futura0001.png",Futura
+#EXTINF:-1 tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png",Futura
 https://iptv.vivatele.com/live/viva_padrao/viva2384/12.m3u8
 #EXTINF:-1 tvg-name="Globo RJ" tvg-logo="https://files.catbox.moe/hpxpmf.png",Globo RJ
 https://iptv.vivatele.com/live/viva_padrao/viva2384/1.m3u8
@@ -89,7 +89,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/globosp.m3u8
 https://fazoeli.fun/token/a601681777ff54bd1f632d0302466c3e/nossoplayer.m3u8
 #EXTINF:-1 tvg-name="Globo RPC Curitiba" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png",Globo RPC Curitiba
 https://files.catbox.moe/llbhb7.png
-#EXTINF:-1 tvg-name="Globo News" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_globonews0001.png",Globo News
+#EXTINF:-1 tvg-name="Globo News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png",Globo News
 https://mf.fazoeli.co.za/fontes/megaflix/globonews.m3u8
 #EXTINF:-1 tvg-name="Gloob" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_gloob0001.png",Gloob
 https://mf.fazoeli.co.za/fontes/megaflix/gloob.m3u8
