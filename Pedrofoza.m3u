@@ -224,6 +224,8 @@ https://mf.fazoeli.co.za/fontes/megaflix/tntseries.m3u8
 #EXTINF:-1 tvg-name="TNT Sports" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_tntsports0001.png",TNT Sports
 #EXTINF:-1 tvg-name="TV Aparecida" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",TV Aparecida
 https://iptv.vivatele.com/live/viva_padrao/viva2384/17.m3u8
+#EXTINF:-1 tvg-name="TV Aparecida ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",TV Aparecida ALT
+https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:-1 tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/1024px-TV_Brasil_logo_2023.svg.png",TV Brasil
 https://iptv.vivatele.com/live/viva_padrao/viva2384/18.m3u8
 #EXTINF:-1 tvg-name="TV Cultura" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_tvcultura0001.png",TV Cultura
