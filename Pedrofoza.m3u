@@ -47,7 +47,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/combate.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/comedycentral.m3u8
 #EXTINF:-1 tvg-name="Curta!" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_curta0001.png",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist_w1529374029.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://files.catbox.moe/t6i76g.png",Discovery Channel
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/Discovery%20Channel.png",Discovery Channel
 https://mf.fazoeli.co.za/fontes/megaflix/discoverychannel.m3u8
 #EXTINF:-1 tvg-name="Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",Discovery Home & Health
 https://mf.fazoeli.co.za/fontes/megaflix/discoveryhh.m3u8
@@ -64,7 +64,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/discoveryworld.m3u8
 #EXTINF:-1 tvg-name="Disney+" tvg-logo="https://i.imgur.com/IVkNsIJ.png",Disney+
 https://mf.fazoeli.co.za/fontes/megaflix/disneyplus1.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel
-https://embedcanaistv.club/disneychannel/tracks-v1a1/mono.ts.m3u8
+https://embedtvcanais.online/disneychannel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="E! Entertainment" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_entertainment0001.png",E! Entertainment
 https://anoncloud.stream/Content/Channel/SPOENTHD/dsc1/manifest.mpd
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://files.catbox.moe/swjcfl.png",ESPN
@@ -117,28 +117,28 @@ https://anonstream.live/hgtv/tracks-v1a1/mono.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/discoveryid.m3u8
 #EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w2132883763.m3u8
-#EXTINF:-1 tvg-name="Jovem Pan" tvg-logo="https://i.imgur.com/5FPUiOf.png",Jovem Pan
+#EXTINF:-1 tvg-name="Jovem Pan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png",Jovem Pan
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_lifetime0001.png",Lifetime
-https://filmestorrent20.com/lifetime/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://files.catbox.moe/cl7m2g.png",Lifetime
+https://embedtvcanais.online/lifetime/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Loading" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Canal_Loading.png",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w641095133.m3u8
-#EXTINF:-1 tvg-name="Max" tvg-logo="https://i.imgur.com/GZSYVVf.png",Max
+#EXTINF:-1 tvg-name="Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/1200px-Max_logo.svg.png",Max
 https://mf.fazoeli.co.za/fontes/megaflix/max1.m3u8
-#EXTINF:-1 tvg-name="Max 2 " tvg-logo="https://i.imgur.com/GZSYVVf.png",Max 2
+#EXTINF:-1 tvg-name="Max 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/1200px-Max_logo.svg.png",Max 2
 https://mf.fazoeli.co.za/fontes/megaflix/max2.m3u8
-#EXTINF:-1 tvg-name="Max 3 " tvg-logo="https://i.imgur.com/GZSYVVf.png",Max 3
+#EXTINF:-1 tvg-name="Max 3 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/1200px-Max_logo.svg.png",Max 3
 https://mf.fazoeli.co.za/fontes/megaflix/max3.m3u8
-#EXTINF:-1 tvg-name="Max 4 " tvg-logo="https://i.imgur.com/GZSYVVf.png",Max 4
+#EXTINF:-1 tvg-name="Max 4 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/1200px-Max_logo.svg.png",Max 4
 https://mf.fazoeli.co.za/fontes/megaflix/max4.m3u8
-#EXTINF:-1 tvg-name="Megapix" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_megapix0001.png",Megapix
+#EXTINF:-1 tvg-name="Megapix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",Megapix
 https://mf.fazoeli.co.za/fontes/megaflix/megapix.m3u8
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_mtv0001.png",MTV
 https://mf.fazoeli.co.za/fontes/megaflix/mtv.m3u8
 #EXTINF:-1 tvg-name="Multishow" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_multishow0001.png",Multishow
 https://mf.fazoeli.co.za/fontes/megaflix/multishow.m3u8
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick Jr
-https://embedcanaistv.club/nickjr/tracks-v1a1/mono.ts.m3u8
+https://embedtvcanais.online/nickjr/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/640px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 https://mf.fazoeli.co.za/fontes/megaflix/nickelodeon.m3u8
 #EXTINF:-1 tvg-name="Novo Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png",Novo Tempo
