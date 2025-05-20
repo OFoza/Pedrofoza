@@ -21,7 +21,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/bandnews.m3u8
 https://iptv.vivatele.com/live/viva_padrao/viva2384/21.m3u8
 #EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png",Band Sports
 https://mf.fazoeli.co.za/fontes/megaflix/bandsports.m3u8
-#EXTINF:-1 tvg-name="Canal Goat" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_canalgoat0002.png",Canal Goat
+#EXTINF:-1 tvg-name="Canal Goat" tvg-logo="https://canalgoat.com.br/wp-content/uploads/2024/10/Canal-Goat-Escudo-Color.png",Canal Goat
 https://mf.fazoeli.co.za/fontes/megaflix/goat.m3u8
 #EXTINF:-1 tvg-name="Canal Gov" tvg-logo="https://canalgov.ebc.com.br/@@site-logo/Artboard%201@2x.png",Canal Gov
 https://canalgov-stream.ebc.com.br/GOV-avc1_1800000=10000.m3u8
@@ -41,13 +41,13 @@ https://mf.fazoeli.co.za/fontes/megaflix/cartoonito.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/cinemax.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png",CNN Brasil
 https://mf.fazoeli.co.za/fontes/megaflix/cnnbrasil.m3u8
-#EXTINF:-1 tvg-name="Combate" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_combate0001.png",Combate
+#EXTINF:-1 tvg-name="Combate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png",Combate
 https://mf.fazoeli.co.za/fontes/megaflix/combate.m3u8
-#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_comedycentral0001.png",Comedy Central
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png",Comedy Central
 https://mf.fazoeli.co.za/fontes/megaflix/comedycentral.m3u8
-#EXTINF:-1 tvg-name="Curta!" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_curta0001.png",Curta!
+#EXTINF:-1 tvg-name="Curta!" tvg-logo="https://files.catbox.moe/d1b292.png",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist_w1529374029.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/Discovery%20Channel.png",Discovery Channel
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery Channel
 https://mf.fazoeli.co.za/fontes/megaflix/discoverychannel.m3u8
 #EXTINF:-1 tvg-name="Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",Discovery Home & Health
 https://mf.fazoeli.co.za/fontes/megaflix/discoveryhh.m3u8
@@ -65,7 +65,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/discoveryworld.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/disneyplus1.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel
 https://embedcanaisdetv.online/disneychannel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="E! Entertainment" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_entertainment0001.png",E! Entertainment
+#EXTINF:-1 tvg-name="E! Entertainment" tvg-logo="https://files.catbox.moe/z5hklw.png  ",E! Entertainment
 https://anonstream.live/e/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/ESPN.png",ESPN
 https://mf.fazoeli.co.za/fontes/megaflix/espn.m3u8
@@ -87,8 +87,8 @@ https://iptv.vivatele.com/live/viva_padrao/viva2384/1.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/globosp.m3u8
 #EXTINF:-1 tvg-name="Globo SP ALT" tvg-logo="https://files.catbox.moe/hpxpmf.png",Globo SP ALT
 https://fazoeli.fun/token/a601681777ff54bd1f632d0302466c3e/nossoplayer.m3u8
-#EXTINF:-1 tvg-name="Globo RPC Curitiba" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png",Globo RPC Curitiba
-https://live-as-03-31.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDMtMzEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQ3Nzg5NTAwLCJpYXQiOjE3NDc3MDMxMDAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYzhiMDQ1YjQtNzEwMi00NjYyLTg3NjUtZTI3MjM5NWRiM2VlIiwicGF0aCI6Ii9udS9mKGR2cj0xMjAsaT0yKS9nbG9iby1jdXIvcGxheWxpc3QubTN1OCJ9.DKS3vVjYyKoQJUVE5Ag4tvYqhx-OliIiBobeUx41VNBDlHPogbpV7R2B9aQNGP4fPhPsnwvHXFFl_GdBO4QAV2GM5C5A1sIjKER8oSSRaYWfk-x4QszC7c-Q4QFc69ExKw7BY-fnCVHaBoNoKRFP3itNQlplA_gieb4cWiBryO_aJ-tYkvNQbEhrh0TZZfwrHeClAUAVdDDHWvSsqk4vR84zCYXfpKUouyySctQGtPWS3ndBuGNi5rK1mn3EN70S3AEguzOUvDCiwLiiPsreotvpeL1-V3vonXNnwlXRjP65x3Hz26dyNgYgmRVjWNzlpG-EEOGXY7m9HAy4mQvSLQ/nu/f(dvr=120,i=2)/globo-cur/globo-cur-audio_1=96000-video=3442944.m3u8?dvr_window_length=120
+#EXTINF:-1 tvg-name="Globo RPC Foz" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png",Globo RPC Foz
+https://live-01.edge-acessonline-xap-sc.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1hY2Vzc29ubGluZS14YXAtc2MudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQ3ODY4NTg5LCJpYXQiOjE3NDc3ODIxODksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMDg0NjgzNjMtYWEwNC00ZDY3LWEwMGItZGExNDY0ZjFiZWI0IiwicGF0aCI6Ii9udS9mKGR2cj0xMjAsaT0yKS9nbG9iby1mb3ovcGxheWxpc3QubTN1OCJ9.l4TJUqXUch71iSrSnP8wXqBb7tQBgsBEt3vLaeoomWy9YoNfsmNwc6qm14YMhokBWr4qrDBieEi9XKiEkNugYaSOCuiqhezmdi2DCGhJiyrqQObBie8mantq2TMCz4ZiLAnpMTeMMdH2gl7eMzpQ-tSkHN7etXrze6FHGWMedj-1E9Y8OBDQ0GjVnh7uwKLM2WcDdbC7FKyjT7F7BJQUz9DJPZ5_Q7OXr46sqHnloTS6stjHhiH78P-SXVV0Zwwqlb8wKj--ayEc9twC965bNeEN_q2VPVfNVyAp-_x2VJOKJQPceHGWQpO0f7-GBQM7QNmxSDFGHgh8aavAhOYSrA/nu/f(dvr=120,i=2)/globo-foz/globo-foz-audio_1=96000-video=3442944.m3u8?dvr_window_length=120
 #EXTINF:-1 tvg-name="Globo News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png",Globo News
 https://mf.fazoeli.co.za/fontes/megaflix/globonews.m3u8
 #EXTINF:-1 tvg-name="Gloob" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/Gloob.png",Gloob
@@ -133,7 +133,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/max3.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/max4.m3u8
 #EXTINF:-1 tvg-name="Megapix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",Megapix
 https://mf.fazoeli.co.za/fontes/megaflix/megapix.m3u8
-#EXTINF:-1 tvg-name="MTV" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_mtv0001.png",MTV
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",MTV
 https://mf.fazoeli.co.za/fontes/megaflix/mtv.m3u8
 #EXTINF:-1 tvg-name="Multishow" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/Multishow.png",Multishow
 https://mf.fazoeli.co.za/fontes/megaflix/multishow.m3u8
@@ -147,25 +147,25 @@ https://mf.fazoeli.co.za/fontes/megaflix/nickelodeon.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 #EXTINF:-1 tvg-name="Off" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Canal_Off_logo.svg",Off
 https://fazoeli.fun/token/2834b0d06b83c483cbf42a49114075e4/embedtv.m3u8
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",Paramount Network
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/2560px-Max_logo.svg.png",Paramount Network
 https://files.catbox.moe/llbhb7.png
-#EXTINF:-1 tvg-name="Paramount+" tvg-logo="https://i.imgur.com/YlKpabZ.png",Paramount+
+#EXTINF:-1 tvg-name="Paramount+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png",Paramount+
 https://mf.fazoeli.co.za/fontes/megaflix/paramountplus.m3u8
-#EXTINF:-1 tvg-name="Paramount+ 2" tvg-logo="https://i.imgur.com/YlKpabZ.png",Paramount+ 2	
+#EXTINF:-1 tvg-name="Paramount+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png",Paramount+ 2	
 https://mf.fazoeli.co.za/fontes/megaflix/paramountplus2.m3u8
-#EXTINF:-1 tvg-name="Premiere" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_premiere0001.png",Premiere
+#EXTINF:-1 tvg-name="Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere
 https://mf.fazoeli.co.za/fontes/megaflix/premiere.m3u8
-#EXTINF:-1 tvg-name="Premiere 02" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_premiere0001.png",Premiere 02
+#EXTINF:-1 tvg-name="Premiere 02" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 02
 https://mf.fazoeli.co.za/fontes/megaflix/premiere2.m3u8
-#EXTINF:-1 tvg-name="Premiere 03" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_premiere0001.png",Premiere 03
+#EXTINF:-1 tvg-name="Premiere 03" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 03
 https://mf.fazoeli.co.za/fontes/megaflix/premiere3.m3u8
-#EXTINF:-1 tvg-name="Premiere 04" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_premiere0001.png",Premiere 04
+#EXTINF:-1 tvg-name="Premiere 04" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 04
 https://mf.fazoeli.co.za/fontes/megaflix/premiere4.m3u8
-#EXTINF:-1 tvg-name="Premiere 05" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_premiere0001.png",Premiere 05
+#EXTINF:-1 tvg-name="Premiere 05" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 05
 https://mf.fazoeli.co.za/fontes/megaflix/premiere5.m3u8
-#EXTINF:-1 tvg-name="Premiere 06" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_premiere0001.png",Premiere 06
+#EXTINF:-1 tvg-name="Premiere 06" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 06
 https://mf.fazoeli.co.za/fontes/megaflix/premiere6.m3u8
-#EXTINF:-1 tvg-name="Premiere 07" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_premiere0001.png",Premiere 07
+#EXTINF:-1 tvg-name="Premiere 07" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 07
 https://mf.fazoeli.co.za/fontes/megaflix/premiere7.m3u8
 #EXTINF:-1 tvg-name="Pai Eterno" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png",Pai Eterno
 https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1774747427.m3u8
@@ -181,21 +181,21 @@ https://iptv.vivatele.com/live/viva_padrao/viva2384/16.m3u8
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png",SBT
 https://iptv.vivatele.com/live/viva_padrao/viva2384/2.m3u8
-#EXTINF:-1 tvg-name="SBT (ALT)" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_sbt0001.png",SBT (ALT)
+#EXTINF:-1 tvg-name="SBT (ALT)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png",SBT (ALT)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-name="Sony Channel" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_sony0001.png",Sony Channel
+#EXTINF:-1 tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
 https://mf.fazoeli.co.za/fontes/megaflix/sonychannel.m3u8
 #EXTINF:-1 tvg-name="Space" tvg-logo="https://files.catbox.moe/u2vlsq.png",Space
 https://mf.fazoeli.co.za/fontes/megaflix/space.m3u8
-#EXTINF:-1 tvg-name="SporTV" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_sportv0001.png",SporTV
+#EXTINF:-1 tvg-name="SporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV_2021.png",SporTV
 https://mf.fazoeli.co.za/fontes/megaflix/sportv.m3u8
-#EXTINF:-1 tvg-name="SporTV 2" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_sportvtwo0001.png",SporTV 2
+#EXTINF:-1 tvg-name="SporTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV2_2021.png",SporTV 2
 https://mf.fazoeli.co.za/fontes/megaflix/sportv2.m3u8
-#EXTINF:-1 tvg-name="SporTV 3" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_sportvthree0001.png",SporTV 3
+#EXTINF:-1 tvg-name="SporTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png",SporTV 3
 https://mf.fazoeli.co.za/fontes/megaflix/sportv3.m3u8
-#EXTINF:-1 tvg-name="SporTV 4" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_sportv0001.png",SporTV 4
+#EXTINF:-1 tvg-name="SporTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sport_TV4_%282016%29.svg/2560px-Sport_TV4_%282016%29.svg.png",SporTV 4
 https://mf.fazoeli.co.za/fontes/megaflix/sportv4.m3u8
-#EXTINF:-1 tvg-name="Studio Universal" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_studiochannel0001.png",Studio Universal
+#EXTINF:-1 tvg-name="Studio Universal" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png,Studio Universal
 https://mf.fazoeli.co.za/fontes/megaflix/studiouniversal.m3u8
 #EXTINF:-1 tvg-name="Sabor & Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png",Sabor & Arte
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/3066/3066-3-main.m3u8
@@ -203,27 +203,27 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/3066/3066-3-main.m
 https://mf.fazoeli.co.za/fontes/megaflix/tcm.m3u8
 #EXTINF:-1 tvg-name="TV Gazeta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/250px-TV_Gazeta.svg.png",TV Gazeta
 https://live-b.cf.dmcdn.net/sec2(uo-C_-ZUnfeEn-4BwSs2IBhQTr74IJWenk-1580GbQ4guBMUvFW-WK7iiO1NPBzw2D-Ow2uC3kwi8wftz9QYJcAtNznkZ-FP8YK_vOOjH6U1cUHZ2Q43qdl2lbXGyOV-)/dm/3/x8ttlxm/s/live-1080.m3u8#cell=lcfb
-#EXTINF:-1 tvg-name="Telecine Action" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_telecineaction0001.png",Telecine Action
+#EXTINF:-1 tvg-name="Telecine Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png",Telecine Action
 https://mf.fazoeli.co.za/fontes/megaflix/telecineaction.m3u8
-#EXTINF:-1 tvg-name="Telecine Cult" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_telecinecult0001.png",Telecine Cult
+#EXTINF:-1 tvg-name="Telecine Cult" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png",Telecine Cult
 https://mf.fazoeli.co.za/fontes/megaflix/telecinecult.m3u8
-#EXTINF:-1 tvg-name="Telecine Fun" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_telecinefun0001.png",Telecine Fun
+#EXTINF:-1 tvg-name="Telecine Fun" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png",Telecine Fun
 https://mf.fazoeli.co.za/fontes/megaflix/telecinefun.m3u8
-#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_telecinepipoca0001.png",Telecine Pipoca
+#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png",Telecine Pipoca
 https://mf.fazoeli.co.za/fontes/megaflix/telecinepipoca.m3u8
-#EXTINF:-1 tvg-name="Telecine Premium" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_telecinepremium0001.png",Telecine Premium
+#EXTINF:-1 tvg-name="Telecine Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Premium_%282021%29.png",Telecine Premium
 https://mf.fazoeli.co.za/fontes/megaflix/telecinepremium.m3u8
 #EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_telecinetouch0001.png",Telecine Touch
 https://mf.fazoeli.co.za/fontes/megaflix/telecinetouch.m3u8
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://i.imgur.com/BOznDVO.png",TLC
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC
 https://mf.fazoeli.co.za/fontes/megaflix/tlc.m3u8
 #EXTINF:-1 tvg-name="TNT HD" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_tnt0001.png",TNT HD
 https://mf.fazoeli.co.za/fontes/megaflix/tnt.m3u8
-#EXTINF:-1 tvg-name="TNT Novelas" tvg-logo="https://i.imgur.com/bzOhQNq.png",TNT Novelas
+#EXTINF:-1 tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas
 https://mf.fazoeli.co.za/fontes/megaflix/tntnovelas.m3u8
-#EXTINF:-1 tvg-name="TNT Séries" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_tntseries0001.png",TNT Séries
+#EXTINF:-1 tvg-name="TNT Séries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Séries
 https://mf.fazoeli.co.za/fontes/megaflix/tntseries.m3u8
-#EXTINF:-1 tvg-name="TNT Sports" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_tntsports0001.png",TNT Sports
+#EXTINF:-1 tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png  ",TNT Sports
 #EXTINF:-1 tvg-name="TV Aparecida" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",TV Aparecida
 https://iptv.vivatele.com/live/viva_padrao/viva2384/17.m3u8
 #EXTINF:-1 tvg-name="TV Aparecida ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",TV Aparecida ALT
@@ -234,19 +234,19 @@ https://iptv.vivatele.com/live/viva_padrao/viva2384/18.m3u8
 https://iptv.vivatele.com/live/viva_padrao/viva2384/6.m3u8
 #EXTINF:-1 tvg-name="TV Evangelizar" tvg-logo="https://i.imgur.com/IrYR7Kp.png",TV Evangelizar 
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
-#EXTINF:-1 tvg-name="TV Rá Tim Bum!" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_tvratimbum0001.png",TV Rá Tim Bum!
+#EXTINF:-1 tvg-name="TV Rá Tim Bum!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png",TV Rá Tim Bum!
 https://iptv.vivatele.com/live/viva_padrao/viva2384/15.m3u8
-#EXTINF:-1 tvg-name="UFC Fight Pass" tvg-logo="https://i.imgur.com/paisBTw.png",UFC Fight Pass
+#EXTINF:-1 tvg-name="UFC Fight Pass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/2560px-UFC_Fight_Pass_Logo.svg.png",UFC Fight Pass
 https://mf.fazoeli.co.za/fontes/megaflix/ufcfightpass.m3u8
-#EXTINF:-1 tvg-name="Universal TV" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_universaltv0001.png",Universal TV
+#EXTINF:-1 tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",Universal TV
 https://mf.fazoeli.co.za/fontes/megaflix/universaltv.m3u8
-#EXTINF:-1 tvg-name="USA" tvg-logo="https://i.imgur.com/sdoR43Z.png",USA
+#EXTINF:-1 tvg-name="USA" tvg-logo="https://files.catbox.moe/qx4too.png",USA
 https://files.catbox.moe/llbhb7.png
-#EXTINF:-1 tvg-name="Viva" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_viva0001.png",Viva
+#EXTINF:-1 tvg-name="Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png",Viva
 https://mf.fazoeli.co.za/fontes/megaflix/viva.m3u8
-#EXTINF:-1 tvg-name="Warner" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_warner0001.png",Warner
+#EXTINF:-1 tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Warner_Bros._logo_2023.svg/1200px-Warner_Bros._logo_2023.svg.png",Warner
 https://mf.fazoeli.co.za/fontes/megaflix/warnerchannel.m3u8
-#EXTINF:-1 tvg-name="Zoomoo Kids" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_zoomoo0001.png",Zoomoo Kids
+#EXTINF:-1 tvg-name="Zoomoo Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/800px-ZooMoo_logo.svg.png",Zoomoo Kids
 https://files.catbox.moe/llbhb7.png
 
 
