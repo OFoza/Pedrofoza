@@ -15,8 +15,6 @@ https://mf.fazoeli.co.za/fontes/megaflix/animalplanet.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 #EXTINF:-1 tvg-name="Band ALT" tvg-logo="https://files.catbox.moe/8e1ps2.png",Band ALT
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w708199981.m3u8
-#EXTINF:-1 tvg-name="Band ALT 2" tvg-logo="https://files.catbox.moe/8e1ps2.png",Band ALT 2
-https://live-c2.cf.dmcdn.net/sec2(gZvyUm-MEN0AJzv8V_bYkvENbM_Oc8AsYk23yXuN9XRvDsS5EThCJ_w0q5zSr2YvNVCWom3oOsQXvoepSUtpP3GNenWSgMCK8JIcYZwwu6Abg74uZsW-JQQjbIFvs1Hs)/cloud/3/x83vbd6/s/live-1080.m3u8#cell=lcfc2
 #EXTINF:-1 tvg-name="Band News" tvg-logo="https://files.catbox.moe/1now9h.png",Band News
 https://mf.fazoeli.co.za/fontes/megaflix/bandnews.m3u8
 #EXTINF:-1 tvg-name="Band News RJ" tvg-logo="https://files.catbox.moe/1now9h.png",Band News RJ
@@ -35,6 +33,8 @@ https://iptv.vivatele.com/live/viva_padrao/viva2384/7.m3u8
 https://iptv.vivatele.com/live/viva_padrao/viva2384/5.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cartoon0001.png",Cartoon Network
 https://mf.fazoeli.co.za/fontes/megaflix/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network ALT" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cartoon0001.png",Cartoon Network ALT
+https://fazoeli.fun/token/39bd7a11e46df5a348916f0d8684342b/embedtv.m3u8
 #EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png",Cartoonito
 https://mf.fazoeli.co.za/fontes/megaflix/cartoonito.m3u8
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",Cinemax
@@ -64,19 +64,19 @@ https://mf.fazoeli.co.za/fontes/megaflix/discoveryworld.m3u8
 #EXTINF:-1 tvg-name="Disney+" tvg-logo="https://i.imgur.com/IVkNsIJ.png",Disney+
 https://mf.fazoeli.co.za/fontes/megaflix/disneyplus1.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel
-https://embedtvcanais.online/disneychannel/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.online/disneychannel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="E! Entertainment" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_entertainment0001.png",E! Entertainment
-https://anoncloud.stream/Content/Channel/SPOENTHD/dsc1/manifest.mpd
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://files.catbox.moe/swjcfl.png",ESPN
+https://anonstream.live/e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/ESPN.png",ESPN
 https://mf.fazoeli.co.za/fontes/megaflix/espn.m3u8
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://files.catbox.moe/fpihnw.png",ESPN 2
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/ESPN2.png",ESPN 2
 https://mf.fazoeli.co.za/fontes/megaflix/espn2.m3u8
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/ESPN3.png",ESPN 3
 https://mf.fazoeli.co.za/fontes/megaflix/espn3.m3u8
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/ESPN4.png",ESPN 4
 https://mf.fazoeli.co.za/fontes/megaflix/espn4.m3u8
 #EXTINF:-1 tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2560px-FX-logo.svg.png",FX
-https://mf.fazoeli.co.za/token/074c18d19f34e7db400c1dfbf56a1644/megaflix.m3u8
+
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",Food Network
 https://mf.fazoeli.co.za/fontes/megaflix/foodnetwork.m3u8
 #EXTINF:-1 tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png",Futura
@@ -91,9 +91,9 @@ https://fazoeli.fun/token/a601681777ff54bd1f632d0302466c3e/nossoplayer.m3u8
 https://files.catbox.moe/llbhb7.png
 #EXTINF:-1 tvg-name="Globo News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png",Globo News
 https://mf.fazoeli.co.za/fontes/megaflix/globonews.m3u8
-#EXTINF:-1 tvg-name="Gloob" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_gloob0001.png",Gloob
+#EXTINF:-1 tvg-name="Gloob" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/Gloob.png",Gloob
 https://mf.fazoeli.co.za/fontes/megaflix/gloob.m3u8
-#EXTINF:-1 tvg-name="GNT" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_gnt0001.png",GNT
+#EXTINF:-1 tvg-name="GNT" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/GNT.png",GNT
 https://mf.fazoeli.co.za/fontes/megaflix/gnt.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_hbo0001.png",HBO
 https://mf.fazoeli.co.za/fontes/megaflix/hbo.m3u8
@@ -107,11 +107,11 @@ https://mf.fazoeli.co.za/fontes/megaflix/hboxtreme.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/hbofamily.m3u8
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_hbopop0001.png",HBO Pop
 https://mf.fazoeli.co.za/fontes/megaflix/hbopop.m3u8
-#EXTINF:-1 tvg-name="History" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_history0001.png",History
+#EXTINF:-1 tvg-name="History" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/History%20Channel.png",History
 https://mf.fazoeli.co.za/fontes/megaflix/history.m3u8
-#EXTINF:-1 tvg-name="History 2" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_historytwo0001.png",History 2
+#EXTINF:-1 tvg-name="History 2" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/History%202.png",History 2
 https://mf.fazoeli.co.za/fontes/megaflix/history2.m3u8
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_historytwo0001.png",HGTV
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV
 https://anonstream.live/hgtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Investigação Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Investigação Discovery
 https://mf.fazoeli.co.za/fontes/megaflix/discoveryid.m3u8
