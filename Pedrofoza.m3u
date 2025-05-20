@@ -37,7 +37,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/cartoonnetwork.m3u8
 https://fazoeli.fun/token/39bd7a11e46df5a348916f0d8684342b/embedtv.m3u8
 #EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png",Cartoonito
 https://mf.fazoeli.co.za/fontes/megaflix/cartoonito.m3u8
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",Cinemax
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/Cinemax.png",Cinemax
 https://mf.fazoeli.co.za/fontes/megaflix/cinemax.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png",CNN Brasil
 https://mf.fazoeli.co.za/fontes/megaflix/cnnbrasil.m3u8
@@ -88,7 +88,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/globosp.m3u8
 #EXTINF:-1 tvg-name="Globo SP ALT" tvg-logo="https://files.catbox.moe/hpxpmf.png",Globo SP ALT
 https://fazoeli.fun/token/a601681777ff54bd1f632d0302466c3e/nossoplayer.m3u8
 #EXTINF:-1 tvg-name="Globo RPC Curitiba" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png",Globo RPC Curitiba
-https://files.catbox.moe/llbhb7.png
+https://live-as-03-31.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDMtMzEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQ3Nzg5NTAwLCJpYXQiOjE3NDc3MDMxMDAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYzhiMDQ1YjQtNzEwMi00NjYyLTg3NjUtZTI3MjM5NWRiM2VlIiwicGF0aCI6Ii9udS9mKGR2cj0xMjAsaT0yKS9nbG9iby1jdXIvcGxheWxpc3QubTN1OCJ9.DKS3vVjYyKoQJUVE5Ag4tvYqhx-OliIiBobeUx41VNBDlHPogbpV7R2B9aQNGP4fPhPsnwvHXFFl_GdBO4QAV2GM5C5A1sIjKER8oSSRaYWfk-x4QszC7c-Q4QFc69ExKw7BY-fnCVHaBoNoKRFP3itNQlplA_gieb4cWiBryO_aJ-tYkvNQbEhrh0TZZfwrHeClAUAVdDDHWvSsqk4vR84zCYXfpKUouyySctQGtPWS3ndBuGNi5rK1mn3EN70S3AEguzOUvDCiwLiiPsreotvpeL1-V3vonXNnwlXRjP65x3Hz26dyNgYgmRVjWNzlpG-EEOGXY7m9HAy4mQvSLQ/nu/f(dvr=120,i=2)/globo-cur/globo-cur-audio_1=96000-video=3442944.m3u8?dvr_window_length=120
 #EXTINF:-1 tvg-name="Globo News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png",Globo News
 https://mf.fazoeli.co.za/fontes/megaflix/globonews.m3u8
 #EXTINF:-1 tvg-name="Gloob" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/Gloob.png",Gloob
@@ -99,11 +99,11 @@ https://mf.fazoeli.co.za/fontes/megaflix/gnt.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/hbo.m3u8
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_hbotwo0001.png",HBO 2
 https://mf.fazoeli.co.za/fontes/megaflix/hbo2.m3u8
-#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_hboplus0001.png",HBO Plus
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/HBO%20Plus.png",HBO Plus
 https://mf.fazoeli.co.za/fontes/megaflix/hboplus.m3u8
 #EXTINF:-1 tvg-name="HBO Extreme" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_hbomundi0001.png",HBO Extreme
 https://mf.fazoeli.co.za/fontes/megaflix/hboxtreme.m3u8
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_hbofamily0001.png",HBO Family
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/HBO%20Family.png",HBO Family
 https://mf.fazoeli.co.za/fontes/megaflix/hbofamily.m3u8
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_hbopop0001.png",HBO Pop
 https://mf.fazoeli.co.za/fontes/megaflix/hbopop.m3u8
@@ -112,7 +112,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/history.m3u8
 #EXTINF:-1 tvg-name="History 2" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/History%202.png",History 2
 https://mf.fazoeli.co.za/fontes/megaflix/history2.m3u8
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV
-https://anonstream.live/hgtv/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.online/hgtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Investigação Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Investigação Discovery
 https://mf.fazoeli.co.za/fontes/megaflix/discoveryid.m3u8
 #EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png",ISTV
@@ -135,10 +135,12 @@ https://mf.fazoeli.co.za/fontes/megaflix/max4.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/megapix.m3u8
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_mtv0001.png",MTV
 https://mf.fazoeli.co.za/fontes/megaflix/mtv.m3u8
-#EXTINF:-1 tvg-name="Multishow" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_multishow0001.png",Multishow
+#EXTINF:-1 tvg-name="Multishow" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/Multishow.png",Multishow
 https://mf.fazoeli.co.za/fontes/megaflix/multishow.m3u8
+#EXTINF:-1 tvg-name="Modo Viagem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1200px-Logotipo_do_Modo_Viagem.svg.png",Modo Viagem
+https://anonstream.live/modoviagem/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick Jr
-https://embedtvcanais.online/nickjr/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.online/nickjr/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/640px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 https://mf.fazoeli.co.za/fontes/megaflix/nickelodeon.m3u8
 #EXTINF:-1 tvg-name="Novo Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png",Novo Tempo
