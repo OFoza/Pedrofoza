@@ -112,7 +112,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/history.m3u8
 #EXTINF:-1 tvg-name="History 2" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/History%202.png",History 2
 https://mf.fazoeli.co.za/fontes/megaflix/history2.m3u8
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV
-https://embedcanaisdetv.online/hgtv/tracks-v1a1/mono.ts.m3u8
+http://x2caverinhas.store:8080/live/andrers/tvand699/194157.m3u8
 #EXTINF:-1 tvg-name="Investigação Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Investigação Discovery
 https://mf.fazoeli.co.za/fontes/megaflix/discoveryid.m3u8
 #EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png",ISTV
