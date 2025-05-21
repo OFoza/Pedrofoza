@@ -76,7 +76,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/espn3.m3u8
 #EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/ESPN4.png",ESPN 4
 https://mf.fazoeli.co.za/fontes/megaflix/espn4.m3u8
 #EXTINF:-1 tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2560px-FX-logo.svg.png",FX
-
+https://fazoeli.fun/token/2fd6d0a7138e3be83cd3a742ce3553f6/embedtv.m3u8
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",Food Network
 https://mf.fazoeli.co.za/fontes/megaflix/foodnetwork.m3u8
 #EXTINF:-1 tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png",Futura
@@ -248,5 +248,9 @@ https://mf.fazoeli.co.za/fontes/megaflix/viva.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/warnerchannel.m3u8
 #EXTINF:-1 tvg-name="Zoomoo Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/800px-ZooMoo_logo.svg.png",Zoomoo Kids
 https://files.catbox.moe/llbhb7.png
+  #EXTINF:-1 tvg-name="24H Os Dragon Ball Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dragon_Ball_Z_Logo_A.png/1200px-Dragon_Ball_Z_Logo_A.png",24H Dragon Ball Z
+https://fazoeli.fun/token/15e2a6a2c02fb364784454242fd9bcf1/embedtv.m3u8
+#EXTINF:-1 tvg-name="24H Os Simpsons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/2560px-The_Simpsons_yellow_logo.svg.png",24H Os Simpsons
+https://fazoeli.fun/token/1ef6a6f2b5f93f102a06648427f1108e/embedtv.m3u8
 
 
