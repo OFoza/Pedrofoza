@@ -95,7 +95,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/espn4.m3u8
 https://fazoeli.fun/token/2fd6d0a7138e3be83cd3a742ce3553f6/embedtv.m3u8
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",Food Network
 https://mf.fazoeli.co.za/fontes/megaflix/foodnetwork.m3u8
-#EXTINF:-1 tvg-name="Fuel TV" tvg-logo="",Fuel TV
+#EXTINF:-1 tvg-name="Fuel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Fuel_TV.svg/1200px-Fuel_TV.svg.png",Fuel TV
 https://amg01074-fueltv-fueltvbrpt-lgbr-yh7ni.amagi.tv/playlist/amg01074-fueltv-fueltvbrpt-lgbr/cb56381b6570668984c32164d0f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aab6852db80148b6f4adafb8c2360625f5c98435ee3b24af0fdb058108a6ba0ac1f4f922b58e68314c9c94dbd83d64698458220f4479f97a58f821388abab5ff803f17a0d5d34749a857097bb30dcb1a14d1caa580b63217cc29ea1112f56f72fc9e14b9eb1dd47cd51a8ab37807a3eb772e025e603ab1b648d3a8334cd9eb4ca56497985c95e732ea3e4daf193d0ee0f0789d6dadc7c3cb4ff136d42c52ddc2d6b1197e8ca17918164fe33b337d51b7f08f2eb23ab9ca082e1b1c72df6409292accf6a10090b7073bfbbfa2cc8e6707d013e862fcefe306f0dd024e58bdc4c39614ec9b35fdb2c2bb8ce878ce5c35aa06f3655f269d5570423997a3c3cad1af09438639e354aab017daa087bd019bc8f25fbf18fbe4623e38a8e02de7fffb90fe5f3008264281657e0a5620c130c35fbc652201c358349edd8cfa1500c03e7f884bee35b2a0834121d5dd8b4a920d5de8e795d25c05527727d5f42c553983a89723c6a44fe17dda806639646707d94c011691a3dc686e1fbc4bcac63ba70d4c3f8435f185171b23e00662393818457f9375c6d383aa40a7748a9084a4888cd91fdf8600f5c60bb0b5edeba048f6bb7800ed486a175aa7e683b/88/1920x1080_5288800/index.m3u8
 #EXTINF:-1 tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png",Futura
 https://iptv.vivatele.com/live/viva_padrao/viva2384/12.m3u8
@@ -211,9 +211,9 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/sonychannel.m3u8
 #EXTINF:-1 tvg-name="Space" tvg-logo="https://files.catbox.moe/u2vlsq.png",Space
 https://mf.fazoeli.co.za/fontes/megaflix/space.m3u8
-#EXTINF:-1 tvg-name="SporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV_2021.png",SporTV
+#EXTINF:-1 tvg-name="SporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",SporTV
 https://mf.fazoeli.co.za/fontes/megaflix/sportv.m3u8
-#EXTINF:-1 tvg-name="SporTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV2_2021.png",SporTV 2
+#EXTINF:-1 tvg-name="SporTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",SporTV 2
 https://mf.fazoeli.co.za/fontes/megaflix/sportv2.m3u8
 #EXTINF:-1 tvg-name="SporTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png",SporTV 3
 https://mf.fazoeli.co.za/fontes/megaflix/sportv3.m3u8
