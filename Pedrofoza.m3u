@@ -63,11 +63,33 @@ http://fonte.lista.luxe:80/live/iptvgood/101011/6391.m3u8
 http://fonte.lista.luxe:80/live/iptvgood/101011/6392.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/2560px-The_Simpsons_yellow_logo.svg.png" group-title="24 HORAS",24H-OS SIMPSONS S28
 http://fonte.lista.luxe:80/live/iptvgood/101011/6393.m3u8
-#EXTINF:-1 tvg-name="24H 3 Palavrinhas" tvg-logo="https://i.pinimg.com/originals/a8/e2/37/a8e237fb48130ae7604b9485f508552b.png  ",24H 3 Palavrinhas
-https://stream-us-east-1.getpublica.com/cl/250523d0nspko60mm7t5642e6g/1920x1080_6591200_0_f.m3u8?i=770_6207
-#EXTINF:-1 tvg-name="24H Pocoyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pocoyo.svg/1200px-Pocoyo.svg.png",24H Pocoyo
+#EXTINF:-1 tvg-id="" tvg-name="24H-PANTERA COR DE ROSA" tvg-logo="" group-title="24 HORAS",24H-PANTERA COR DE ROSA
+http://fonte.lista.luxe:80/live/iptvgood/101011/6405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-PAPALEGUAS E COIOTE" tvg-logo="" group-title="24 HORAS",24H-PAPALEGUAS E COIOTE
+http://fonte.lista.luxe:80/live/iptvgood/101011/6406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-PATRULHA CANINA S01" tvg-logo="" group-title="24 HORAS",24H-PATRULHA CANINA S01
+http://fonte.lista.luxe:80/live/iptvgood/101011/6412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-PATRULHA CANINA S02" tvg-logo="" group-title="24 HORAS",24H-PATRULHA CANINA S02
+http://fonte.lista.luxe:80/live/iptvgood/101011/6413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-PATRULHA CANINA S03" tvg-logo="" group-title="24 HORAS",24H-PATRULHA CANINA S03
+http://fonte.lista.luxe:80/live/iptvgood/101011/6414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-PEGADINHAS DO SILVIO SANTOS" tvg-logo="" group-title="24 HORAS",24H-PEGADINHAS DO SILVIO SANTOS
+http://fonte.lista.luxe:80/live/iptvgood/101011/6416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-PEPPA PIG" tvg-logo="" group-title="24 HORAS",24H-PEPPA PIG
+http://fonte.lista.luxe:80/live/iptvgood/101011/6420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-PERNALONGA E SUA TURMA" tvg-logo="" group-title="24 HORAS",24H-PERNALONGA E SUA TURMA
+http://fonte.lista.luxe:80/live/iptvgood/101011/6423.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 1 TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-RICK E MORTY 1 TEMPORADA
+http://fonte.lista.luxe:80/live/iptvgood/101011/6470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 2 TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-RICK E MORTY 2 TEMPORADA
+http://fonte.lista.luxe:80/live/iptvgood/101011/6471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 3 TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-RICK E MORTY 3 TEMPORADA
+http://fonte.lista.luxe:80/live/iptvgood/101011/6472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 4 TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-RICK E MORTY 4 TEMPORADA
+http://fonte.lista.luxe:80/live/iptvgood/101011/6473.m3u8
+#EXTINF:-1 tvg-name="24H Pocoyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pocoyo.svg/1200px-Pocoyo.svg.png" group-title="24 HORAS",24H Pocoyo
 https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265_720p_high.m3u8
-#EXTINF:-1 tvg-name="24H Manual do Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo_Manual_do_Mundo_%282021%29.png",24H Manual do Mundo
+#EXTINF:-1 tvg-name="24H Manual do Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo_Manual_do_Mundo_%282021%29.png" group-title="24 HORAS",24H Manual do Mundo
 https://amg17288-offgrid-amg17288c2-lg-br-6103.playouts.now.amagi.tv/playlist/amg17288-offgridcreativecontentfast-manualdomundo-lgbr/cb56381b6570668984c32164d0f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aab6852db80148b6f4adafb8c2360625f5c98435ee3b24af0ace80843db3fa6ac1f4f922a58e68314c9c94eb2d3d0469641d523f910ccc7f28e821388abab5ff803f17a0d5d34749a857097bb30dcb1a14d1caa580b63217cc29ea1112f56f72fc9e14b9eb1dd47cd51a8ab37807a3eb772e025e603ab1b648d3a8334cd9eb4ca56497985c95e732ea3e4daf193d0ee0f0789d6dadc7c3cb4ff136d42c52ddc2d6b1197e8ca17918164fe33b337d51b7f08f2eb23ab9ca082e1b1c72df6409292accf6a10090b7073bfbbfa2cc8e6707d013e862fcefe306f0dd024e58bdc4c39614ec9b35fdb2c2bb8ce878ce5c35aa06f3655f269d5570423997a3c3cad1af09438639e354aab017daa087bd019bc8f25fbf18fbe4623e38a8e02de7fffb90fe5f3008264281657e0a5620c130c35fbc652201c358349edd8cfa1500c03e7f884bee35b2a0834121d5dd8b4a920d5de8e795d25c05527727d5f42c553983a89723c6a44fe17dda806639646707d94c011691a3dc686e1fbc4bcac63ba70d4c3f8435f185171b23e00662393818457f9375c6d383aa40a7748a9084a4888c19005f851ae113d023cd3b323bd415c94d894ff7a5e52fc8e/49/1920x1080_6709560/index.m3u8
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_a&e0001.png",A&E
 https://mf.fazoeli.co.za/fontes/megaflix/ae.m3u8
