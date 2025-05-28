@@ -63,141 +63,252 @@ http://fonte.lista.luxe:80/live/iptvgood/101011/6391.m3u8
 http://fonte.lista.luxe:80/live/iptvgood/101011/6392.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/2560px-The_Simpsons_yellow_logo.svg.png" group-title="24 HORAS",24H-OS SIMPSONS S28
 http://fonte.lista.luxe:80/live/iptvgood/101011/6393.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-PANTERA COR DE ROSA" tvg-logo="" group-title="24 HORAS",24H-PANTERA COR DE ROSA
+#EXTINF:-1 tvg-id="" tvg-name="24H-PANTERA COR DE ROSA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/82/Pantera_Cor_de_Rosa.png" group-title="24 HORAS",24H-PANTERA COR DE ROSA
 http://fonte.lista.luxe:80/live/iptvgood/101011/6405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-PAPALEGUAS E COIOTE" tvg-logo="" group-title="24 HORAS",24H-PAPALEGUAS E COIOTE
+#EXTINF:-1 tvg-id="" tvg-name="24H-PAPALEGUAS E COIOTE" tvg-logo="https://files.catbox.moe/q05y6l.png" group-title="24 HORAS",24H-PAPALEGUAS E COIOTE
 http://fonte.lista.luxe:80/live/iptvgood/101011/6406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-PATRULHA CANINA S01" tvg-logo="" group-title="24 HORAS",24H-PATRULHA CANINA S01
+#EXTINF:-1 tvg-id="" tvg-name="24H-PATRULHA CANINA S01" tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2018/10/patrulha-canina-05.png" group-title="24 HORAS",24H-PATRULHA CANINA S01
 http://fonte.lista.luxe:80/live/iptvgood/101011/6412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-PATRULHA CANINA S02" tvg-logo="" group-title="24 HORAS",24H-PATRULHA CANINA S02
+#EXTINF:-1 tvg-id="" tvg-name="24H-PATRULHA CANINA S02" tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2018/10/patrulha-canina-05.png" group-title="24 HORAS",24H-PATRULHA CANINA S02
 http://fonte.lista.luxe:80/live/iptvgood/101011/6413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-PATRULHA CANINA S03" tvg-logo="" group-title="24 HORAS",24H-PATRULHA CANINA S03
+#EXTINF:-1 tvg-id="" tvg-name="24H-PATRULHA CANINA S03" tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2018/10/patrulha-canina-05.png" group-title="24 HORAS",24H-PATRULHA CANINA S03
 http://fonte.lista.luxe:80/live/iptvgood/101011/6414.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-PEGADINHAS DO SILVIO SANTOS" tvg-logo="" group-title="24 HORAS",24H-PEGADINHAS DO SILVIO SANTOS
+#EXTINF:-1 tvg-id="" tvg-name="24H-PEGADINHAS DO SILVIO SANTOS" tvg-logo="https://files.catbox.moe/t2rnm5.png" group-title="24 HORAS",24H-PEGADINHAS DO SILVIO SANTOS
 http://fonte.lista.luxe:80/live/iptvgood/101011/6416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-PEPPA PIG" tvg-logo="" group-title="24 HORAS",24H-PEPPA PIG
+#EXTINF:-1 tvg-id="" tvg-name="24H-PEPPA PIG" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2b/Peppa_Pig_logo.png" group-title="24 HORAS",24H-PEPPA PIG
 http://fonte.lista.luxe:80/live/iptvgood/101011/6420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-PERNALONGA E SUA TURMA" tvg-logo="" group-title="24 HORAS",24H-PERNALONGA E SUA TURMA
+#EXTINF:-1 tvg-id="" tvg-name="24H-PERNALONGA E SUA TURMA" tvg-logo="https://files.catbox.moe/5m9wlp.png" group-title="24 HORAS",24H-PERNALONGA E SUA TURMA
 http://fonte.lista.luxe:80/live/iptvgood/101011/6423.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 1 TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-RICK E MORTY 1 TEMPORADA
+#EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 1 TEMPORADA" tvg-logo="https://files.catbox.moe/0xkb29.png" group-title="24 HORAS",24H-RICK E MORTY 1 TEMPORADA
 http://fonte.lista.luxe:80/live/iptvgood/101011/6470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 2 TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-RICK E MORTY 2 TEMPORADA
+#EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 2 TEMPORADA" tvg-logo="https://files.catbox.moe/0xkb29.png" group-title="24 HORAS",24H-RICK E MORTY 2 TEMPORADA
 http://fonte.lista.luxe:80/live/iptvgood/101011/6471.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 3 TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-RICK E MORTY 3 TEMPORADA
+#EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 3 TEMPORADA" tvg-logo="https://files.catbox.moe/0xkb29.png" group-title="24 HORAS",24H-RICK E MORTY 3 TEMPORADA
 http://fonte.lista.luxe:80/live/iptvgood/101011/6472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 4 TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-RICK E MORTY 4 TEMPORADA
+#EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 4 TEMPORADA" tvg-logo="https://files.catbox.moe/0xkb29.png" group-title="24 HORAS",24H-RICK E MORTY 4 TEMPORADA
 http://fonte.lista.luxe:80/live/iptvgood/101011/6473.m3u8
 #EXTINF:-1 tvg-name="24H Pocoyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pocoyo.svg/1200px-Pocoyo.svg.png" group-title="24 HORAS",24H Pocoyo
 https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265_720p_high.m3u8
 #EXTINF:-1 tvg-name="24H Manual do Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo_Manual_do_Mundo_%282021%29.png" group-title="24 HORAS",24H Manual do Mundo
 https://amg17288-offgrid-amg17288c2-lg-br-6103.playouts.now.amagi.tv/playlist/amg17288-offgridcreativecontentfast-manualdomundo-lgbr/cb56381b6570668984c32164d0f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aab6852db80148b6f4adafb8c2360625f5c98435ee3b24af0ace80843db3fa6ac1f4f922a58e68314c9c94eb2d3d0469641d523f910ccc7f28e821388abab5ff803f17a0d5d34749a857097bb30dcb1a14d1caa580b63217cc29ea1112f56f72fc9e14b9eb1dd47cd51a8ab37807a3eb772e025e603ab1b648d3a8334cd9eb4ca56497985c95e732ea3e4daf193d0ee0f0789d6dadc7c3cb4ff136d42c52ddc2d6b1197e8ca17918164fe33b337d51b7f08f2eb23ab9ca082e1b1c72df6409292accf6a10090b7073bfbbfa2cc8e6707d013e862fcefe306f0dd024e58bdc4c39614ec9b35fdb2c2bb8ce878ce5c35aa06f3655f269d5570423997a3c3cad1af09438639e354aab017daa087bd019bc8f25fbf18fbe4623e38a8e02de7fffb90fe5f3008264281657e0a5620c130c35fbc652201c358349edd8cfa1500c03e7f884bee35b2a0834121d5dd8b4a920d5de8e795d25c05527727d5f42c553983a89723c6a44fe17dda806639646707d94c011691a3dc686e1fbc4bcac63ba70d4c3f8435f185171b23e00662393818457f9375c6d383aa40a7748a9084a4888c19005f851ae113d023cd3b323bd415c94d894ff7a5e52fc8e/49/1920x1080_6709560/index.m3u8
-#EXTINF:-1 tvg-name="A&E" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_a&e0001.png",A&E
+#EXTINF:-1 tvg-id="" tvg-name="24H-O SHOW DO SCOOBY DOO" tvg-logo="" group-title="24 HORAS",24H-O SHOW DO SCOOBY DOO
+http://fonte.lista.luxe:80/live/iptvgood/101011/6341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S01" tvg-logo="" group-title="24 HORAS",24H-BEN 10 OMNIVERSE S01
+http://fonte.lista.luxe:80/live/iptvgood/101011/5923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S02" tvg-logo="" group-title="24 HORAS",24H-BEN 10 OMNIVERSE S02
+http://fonte.lista.luxe:80/live/iptvgood/101011/5924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S03" tvg-logo="" group-title="24 HORAS",24H-BEN 10 OMNIVERSE S03
+http://fonte.lista.luxe:80/live/iptvgood/101011/5925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S04" tvg-logo="" group-title="24 HORAS",24H-BEN 10 OMNIVERSE S04
+http://fonte.lista.luxe:80/live/iptvgood/101011/5926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-OS JOVENS TITANS" tvg-logo="" group-title="24 HORAS",24H-OS JOVENS TITANS
+http://fonte.lista.luxe:80/live/iptvgood/101011/6361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-AS AVENTURAS DE SONIC" tvg-logo="" group-title="24 HORAS",24H-AS AVENTURAS DE SONIC
+http://fonte.lista.luxe:80/live/iptvgood/101011/5900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-SONIC BOOM" tvg-logo="" group-title="24 HORAS",24H-SONIC BOOM
+http://fonte.lista.luxe:80/live/iptvgood/101011/6521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-SONIC X" tvg-logo="" group-title="24 HORAS",24H-SONIC X
+http://fonte.lista.luxe:80/live/iptvgood/101011/6522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-GARFIELD E SEUS AMIGOS" tvg-logo="" group-title="24 HORAS",24H-GARFIELD E SEUS AMIGOS
+http://fonte.lista.luxe:80/live/iptvgood/101011/6131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-TOM E JERRY" tvg-logo="" group-title="24 HORAS",24H-TOM E JERRY
+http://fonte.lista.luxe:80/live/iptvgood/101011/6582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-A CASA DO MICKEY MOUSE" tvg-logo="" group-title="24 HORAS",24H-A CASA DO MICKEY MOUSE
+http://fonte.lista.luxe:80/live/iptvgood/101011/5867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-AVATAR" tvg-logo="" group-title="24 HORAS",24H-AVATAR
+http://fonte.lista.luxe:80/live/iptvgood/101011/5908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-BABY LOONEY TUNES" tvg-logo="" group-title="24 HORAS",24H-BABY LOONEY TUNES
+http://fonte.lista.luxe:80/live/iptvgood/101011/5909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-BATMAN" tvg-logo="" group-title="24 HORAS",24H-BATMAN
+http://fonte.lista.luxe:80/live/iptvgood/101011/5920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 1 TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 1 TEMPORADA
+http://fonte.lista.luxe:80/live/iptvgood/101011/5969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 2 TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 2 TEMPORADA
+http://fonte.lista.luxe:80/live/iptvgood/101011/5970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO  SAGA DE ASGARD" tvg-logo="" group-title="24 HORAS",24H-CAVALEIROS DO ZODIACO  SAGA DE ASGARD
+http://fonte.lista.luxe:80/live/iptvgood/101011/5971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO  SAGA DE POSEIDON" tvg-logo="" group-title="24 HORAS",24H-CAVALEIROS DO ZODIACO  SAGA DE POSEIDON
+http://fonte.lista.luxe:80/live/iptvgood/101011/5972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO" tvg-logo="" group-title="24 HORAS",24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO
+http://fonte.lista.luxe:80/live/iptvgood/101011/5973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVERNA DO DRAGAO" tvg-logo="" group-title="24 HORAS",24H-CAVERNA DO DRAGAO
+http://fonte.lista.luxe:80/live/iptvgood/101011/5974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHANPOLIN COLORADO" tvg-logo="" group-title="24 HORAS",24H-CHANPOLIN COLORADO
+http://fonte.lista.luxe:80/live/iptvgood/101011/5975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAPOLIN" tvg-logo="" group-title="24 HORAS",24H-CHAPOLIN
+http://fonte.lista.luxe:80/live/iptvgood/101011/5976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES" tvg-logo="" group-title="24 HORAS",24H-CHAVES
+http://fonte.lista.luxe:80/live/iptvgood/101011/5978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES  DESENHO SEGUNDA TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-CHAVES  DESENHO SEGUNDA TEMPORADA
+http://fonte.lista.luxe:80/live/iptvgood/101011/5979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S01" tvg-logo="" group-title="24 HORAS",24H-CHAVES CLASSICO S01
+http://fonte.lista.luxe:80/live/iptvgood/101011/5980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S02" tvg-logo="" group-title="24 HORAS",24H-CHAVES CLASSICO S02
+http://fonte.lista.luxe:80/live/iptvgood/101011/5981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S03" tvg-logo="" group-title="24 HORAS",24H-CHAVES CLASSICO S03
+http://fonte.lista.luxe:80/live/iptvgood/101011/5982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S04" tvg-logo="" group-title="24 HORAS",24H-CHAVES CLASSICO S04
+http://fonte.lista.luxe:80/live/iptvgood/101011/5983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S05" tvg-logo="" group-title="24 HORAS",24H-CHAVES CLASSICO S05
+http://fonte.lista.luxe:80/live/iptvgood/101011/5984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S06" tvg-logo="" group-title="24 HORAS",24H-CHAVES CLASSICO S06
+http://fonte.lista.luxe:80/live/iptvgood/101011/5985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S07" tvg-logo="" group-title="24 HORAS",24H-CHAVES CLASSICO S07
+http://fonte.lista.luxe:80/live/iptvgood/101011/5986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES DESENHO PRIMEIRA TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-CHAVES DESENHO PRIMEIRA TEMPORADA
+http://fonte.lista.luxe:80/live/iptvgood/101011/5987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES DESENHO QUARTA TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-CHAVES DESENHO QUARTA TEMPORADA
+http://fonte.lista.luxe:80/live/iptvgood/101011/5988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES DESENHO TERCEIRA TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-CHAVES DESENHO TERCEIRA TEMPORADA
+http://fonte.lista.luxe:80/live/iptvgood/101011/5989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CLARENCIO O OTIMISTA" tvg-logo="" group-title="24 HORAS",24H-CLARENCIO O OTIMISTA
+http://fonte.lista.luxe:80/live/iptvgood/101011/5992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-01" tvg-logo="" group-title="24 HORAS",24H-DC COMICS-01
+http://fonte.lista.luxe:80/live/iptvgood/101011/6002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-02" tvg-logo="" group-title="24 HORAS",24H-DC COMICS-02
+http://fonte.lista.luxe:80/live/iptvgood/101011/6003.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="24H-DESENHOS BIBLICOS" tvg-logo="" group-title="24 HORAS",24H-DESENHOS BIBLICOS
+http://fonte.lista.luxe:80/live/iptvgood/101011/6041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-DORA A AVENTUREIRA" tvg-logo="" group-title="24 HORAS",24H-DORA A AVENTUREIRA
+http://fonte.lista.luxe:80/live/iptvgood/101011/6062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL GT" tvg-logo="" group-title="24 HORAS",24H-DRAGON BALL GT
+http://fonte.lista.luxe:80/live/iptvgood/101011/6066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-GATO DE BOTAS" tvg-logo="" group-title="24 HORAS",24H-GATO DE BOTAS
+http://fonte.lista.luxe:80/live/iptvgood/101011/6134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-FILMES 1" tvg-logo="" group-title="24 HORAS",24H-MARVEL-FILMES 1
+http://fonte.lista.luxe:80/live/iptvgood/101011/6241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-FILMES 2" tvg-logo="" group-title="24 HORAS",24H-MARVEL-FILMES 2
+http://fonte.lista.luxe:80/live/iptvgood/101011/6242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-MORANGUINHO" tvg-logo="" group-title="24 HORAS",24H-MORANGUINHO
+http://fonte.lista.luxe:80/live/iptvgood/101011/6288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-MORTAL KOMBAT" tvg-logo="" group-title="24 HORAS",24H-MORTAL KOMBAT
+http://fonte.lista.luxe:80/live/iptvgood/101011/6289.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO
+http://fonte.lista.luxe:80/live/iptvgood/101011/6310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S01" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S01
+http://fonte.lista.luxe:80/live/iptvgood/101011/6311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S02" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S02
+http://fonte.lista.luxe:80/live/iptvgood/101011/6312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S03" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S03
+http://fonte.lista.luxe:80/live/iptvgood/101011/6313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S04" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S04
+http://fonte.lista.luxe:80/live/iptvgood/101011/6314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S05" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S05
+http://fonte.lista.luxe:80/live/iptvgood/101011/6315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S06" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S06
+http://fonte.lista.luxe:80/live/iptvgood/101011/6316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S07" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S07
+http://fonte.lista.luxe:80/live/iptvgood/101011/6317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S08" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S08
+http://fonte.lista.luxe:80/live/iptvgood/101011/6318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S09" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S09
+http://fonte.lista.luxe:80/live/iptvgood/101011/6319.m3u8
+
+#EXTINF:-1 tvg-name="A&E" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_a&e0001.png" group-title="CANAIS",A&E
 https://mf.fazoeli.co.za/fontes/megaflix/ae.m3u8
-#EXTINF:-1 tvg-name="Adult Swim" tvg-logo="https://i.imgur.com/4TEXo8R.png",Adult Swim
+#EXTINF:-1 tvg-name="Adult Swim" tvg-logo="https://i.imgur.com/4TEXo8R.png" group-title="CANAIS",Adult Swim
 https://mf.fazoeli.co.za/fontes/megaflix/adultswim.m3u8
-#EXTINF:-1 tvg-name="Agro Mais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Agromais-band-logo.png",Agro Mais
+#EXTINF:-1 tvg-name="Agro Mais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Agromais-band-logo.png" group-title="CANAIS",Agro Mais
 http://fonte.lista.luxe:80/live/iptvgood/101011/4845.m3u8
-#EXTINF:-1 tvg-name="AMC" tvg-logo="https://www.gruporedeamazonica.com.br/files/amazonsat/AMAZON-SAT-01.png",AMC
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://www.gruporedeamazonica.com.br/files/amazonsat/AMAZON-SAT-01.png group-title="CANAIS"",AMC
 http://fonte.lista.luxe:80/live/iptvgood/101011/4082.m3u8
-#EXTINF:-1 tvg-name="Amazon Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png",Amazon Sat
+#EXTINF:-1 tvg-name="Amazon Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CANAIS",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="CANAIS",AXN
 https://mf.fazoeli.co.za/fontes/megaflix/axn.m3u8
-#EXTINF:-1 tvg-name="Arte1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png",Arte1
+#EXTINF:-1 tvg-name="Arte1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="CANAIS",Arte1
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292-3-main.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS",Animal Planet
 https://mf.fazoeli.co.za/fontes/megaflix/animalplanet.m3u8
-#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png",Baby TV
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS",Baby TV
 http://fonte.lista.luxe:80/live/iptvgood/101011/4074.m3u8
-#EXTINF:-1 tvg-name="Band" tvg-logo="https://files.catbox.moe/8e1ps2.png",Band
+#EXTINF:-1 tvg-name="Band" tvg-logo="https://files.catbox.moe/8e1ps2.png" group-title="CANAIS",Band
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
-#EXTINF:-1 tvg-name="Band ALT" tvg-logo="https://files.catbox.moe/8e1ps2.png",Band ALT
+#EXTINF:-1 tvg-name="Band ALT" tvg-logo="https://files.catbox.moe/8e1ps2.png" group-title="CANAIS",Band ALT
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w708199981.m3u8
-#EXTINF:-1 tvg-name="Band News" tvg-logo="https://files.catbox.moe/1now9h.png",Band News
+#EXTINF:-1 tvg-name="Band News" tvg-logo="https://files.catbox.moe/1now9h.png" group-title="CANAIS",Band News
 https://mf.fazoeli.co.za/fontes/megaflix/bandnews.m3u8
-#EXTINF:-1 tvg-name="Band News RJ" tvg-logo="https://files.catbox.moe/1now9h.png",Band News RJ
+#EXTINF:-1 tvg-name="Band News RJ" tvg-logo="https://files.catbox.moe/1now9h.png" group-title="CANAIS",Band News RJ
 https://iptv.vivatele.com/live/viva_padrao/viva2384/21.m3u8
 #EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png",Band Sports
 https://mf.fazoeli.co.za/fontes/megaflix/bandsports.m3u8
-#EXTINF:-1 tvg-name="Bis" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png",Bis
+#EXTINF:-1 tvg-name="Bis" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="CANAIS",Bis
 http://fonte.lista.luxe:80/live/iptvgood/101011/4762.m3u8
-#EXTINF:-1 tvg-name="Canal Goat" tvg-logo="https://canalgoat.com.br/wp-content/uploads/2024/10/Canal-Goat-Escudo-Color.png",Canal Goat
+#EXTINF:-1 tvg-name="Canal Goat" tvg-logo="https://canalgoat.com.br/wp-content/uploads/2024/10/Canal-Goat-Escudo-Color.png" group-title="CANAIS",Canal Goat
 https://mf.fazoeli.co.za/fontes/megaflix/goat.m3u8
-#EXTINF:-1 tvg-name="Canal Gov" tvg-logo="https://canalgov.ebc.com.br/@@site-logo/Artboard%201@2x.png",Canal Gov
+#EXTINF:-1 tvg-name="Canal Gov" tvg-logo="https://canalgov.ebc.com.br/@@site-logo/Artboard%201@2x.png" group-title="CANAIS",Canal Gov
 https://canalgov-stream.ebc.com.br/GOV-avc1_1800000=10000.m3u8
-#EXTINF:-1 tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/8PuNxoS.png",Canal Brasil
+#EXTINF:-1 tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/8PuNxoS.png" group-title="CANAIS",Canal Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1537374815.m3u8
-#EXTINF:-1 tvg-name="Canal UOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/UOL_logo.png",Canal UOL
+#EXTINF:-1 tvg-name="Canal UOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/UOL_logo.png" group-title="CANAIS",Canal UOL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png",Canal do Boi
+#EXTINF:-1 tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="CANAIS",Canal do Boi
 https://iptv.vivatele.com/live/viva_padrao/viva2384/7.m3u8
-#EXTINF:-1 tvg-name="Canção Nova" tvg-logo="https://arquidiocesecampinas.com/wp-content/uploads/2012/11/LOGO-Can%C3%A7%C3%A3o-Nova.png",Canção Nova
+#EXTINF:-1 tvg-name="Canção Nova" tvg-logo="https://arquidiocesecampinas.com/wp-content/uploads/2012/11/LOGO-Can%C3%A7%C3%A3o-Nova.png" group-title="CANAIS",Canção Nova
 https://iptv.vivatele.com/live/viva_padrao/viva2384/5.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cartoon0001.png",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cartoon0001.png" group-title="CANAIS",Cartoon Network
 https://mf.fazoeli.co.za/fontes/megaflix/cartoonnetwork.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network ALT" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cartoon0001.png",Cartoon Network ALT
+#EXTINF:-1 tvg-name="Cartoon Network ALT" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cartoon0001.png" group-title="CANAIS",Cartoon Network ALT
 http://fonte.lista.luxe/live/iptvgood/101011/4039.m3u8
-#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png",Cartoonito
+#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="CANAIS",Cartoonito
 https://mf.fazoeli.co.za/fontes/megaflix/cartoonito.m3u8
-#EXTINF:-1 tvg-name="Cazé TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png",Cazé TV
+#EXTINF:-1 tvg-name="Cazé TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" group-title="CANAIS",Cazé TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/Cinemax.png",Cinemax
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/Cinemax.png" group-title="CANAIS",Cinemax
 https://mf.fazoeli.co.za/fontes/megaflix/cinemax.m3u8
-#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png",CNN Brasil
+#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="CANAIS",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN Money Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/CNN_Money_logo_%28old%29.png",CNN Money Brasil
+#EXTINF:-1 tvg-name="CNN Money Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/CNN_Money_logo_%28old%29.png" group-title="CANAIS",CNN Money Brasil
 https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
 #EXTINF:-1 tvg-name="Combate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png",Combate
 https://mf.fazoeli.co.za/fontes/megaflix/combate.m3u8
-#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png",Comedy Central
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="CANAIS",Comedy Central
 https://mf.fazoeli.co.za/fontes/megaflix/comedycentral.m3u8
-#EXTINF:-1 tvg-name="Curta!" tvg-logo="https://files.catbox.moe/d1b292.png",Curta!
+#EXTINF:-1 tvg-name="Curta!" tvg-logo="https://files.catbox.moe/d1b292.png" group-title="CANAIS",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist_w1529374029.m3u8
-#EXTINF:-1 tvg-name="Dark Flix" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logo_do_Darkflix.png",Dark Flix
+#EXTINF:-1 tvg-name="Dark Flix" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logo_do_Darkflix.png" group-title="CANAIS",Dark Flix
 https://video01.soultv.com.br/darkflix/darkflix/chunklist_w807996880.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery Channel
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="CANAIS",Discovery Channel
 https://mf.fazoeli.co.za/fontes/megaflix/discoverychannel.m3u8
-#EXTINF:-1 tvg-name="Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",Discovery Home & Health
+#EXTINF:-1 tvg-name="Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS",Discovery Home & Health
 https://mf.fazoeli.co.za/fontes/megaflix/discoveryhh.m3u8
-#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png",Discovery Kids
+#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="CANAIS",Discovery Kids
 https://mf.fazoeli.co.za/fontes/megaflix/discoverykids.m3u8
-#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png",Discovery Science
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANAIS",Discovery Science
 https://mf.fazoeli.co.za/fontes/megaflix/discoveryscience.m3u8
-#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png",Discovery Theater
+#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="CANAIS",Discovery Theater
 https://mf.fazoeli.co.za/fontes/megaflix/discoverytheather.m3u8
-#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/800px-Discovery_Turbo_logo.svg.png",Discovery Turbo
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/800px-Discovery_Turbo_logo.svg.png" group-title="CANAIS",Discovery Turbo
 https://mf.fazoeli.co.za/fontes/megaflix/discoveryturbo.m3u8
-#EXTINF:-1 tvg-name="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",Discovery World
+#EXTINF:-1 tvg-name="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CANAIS",Discovery World
 https://mf.fazoeli.co.za/fontes/megaflix/discoveryworld.m3u8
-#EXTINF:-1 tvg-name="Disney+" tvg-logo="https://i.imgur.com/IVkNsIJ.png",Disney+
+#EXTINF:-1 tvg-name="Disney+" tvg-logo="https://i.imgur.com/IVkNsIJ.png" group-title="CANAIS",Disney+
 https://mf.fazoeli.co.za/fontes/megaflix/disneyplus1.m3u8
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel
-https://embedcanaisdetv.online/disneychannel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="E! Entertainment" tvg-logo="https://files.catbox.moe/z5hklw.png  ",E! Entertainment
+#EXTINF:-1 tvg-name="E! Entertainment" tvg-logo="https://files.catbox.moe/z5hklw.png" group-title="CANAIS",E! Entertainment
 http://fonte.lista.luxe:80/live/iptvgood/101011/4788.m3u8
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/ESPN.png",ESPN
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/ESPN.png" group-title="CANAIS",ESPN
 https://mf.fazoeli.co.za/fontes/megaflix/espn.m3u8
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/ESPN2.png",ESPN 2
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/ESPN2.png" group-title="CANAIS",ESPN 2
 https://mf.fazoeli.co.za/fontes/megaflix/espn2.m3u8
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/ESPN3.png",ESPN 3
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/ESPN3.png" group-title="CANAIS",ESPN 3
 https://mf.fazoeli.co.za/fontes/megaflix/espn3.m3u8
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/ESPN4.png",ESPN 4
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/ESPN4.png" group-title="CANAIS",ESPN 4
 https://mf.fazoeli.co.za/fontes/megaflix/espn4.m3u8
-#EXTINF:-1 tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2560px-FX-logo.svg.png",FX
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2560px-FX-logo.svg.png" group-title="CANAIS",FX
 
-#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",Food Network
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="CANAIS",Food Network
 https://mf.fazoeli.co.za/fontes/megaflix/foodnetwork.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png",Fox Sports 2
+#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png" group-title="CANAIS",Fox Sports 2
 http://fonte.lista.luxe:80/live/iptvgood/101011/3964.m3u8
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",Fashion TV
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="CANAIS",Fashion TV
 http://fonte.lista.luxe:80/live/iptvgood/101011/6850.m3u8
-#EXTINF:-1 tvg-name="Film&Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png",Film&Arts
+#EXTINF:-1 tvg-name="Film&Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="CANAIS",Film&Arts
 http://fonte.lista.luxe:80/live/iptvgood/101011/3972.m3u8
-#EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/2560px-Fish_TV_logo_2022.svg.png",Fish TV
+#EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/2560px-Fish_TV_logo_2022.svg.png" group-title="CANAIS",Fish TV
 http://fonte.lista.luxe:80/live/iptvgood/101011/3969.m3u8
-#EXTINF:-1 tvg-name="Fuel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Fuel_TV.svg/1200px-Fuel_TV.svg.png",Fuel TV
+#EXTINF:-1 tvg-name="Fuel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Fuel_TV.svg/1200px-Fuel_TV.svg.png" group-title="CANAIS",Fuel TV
 https://amg01074-fueltv-fueltvbrpt-lgbr-yh7ni.amagi.tv/playlist/amg01074-fueltv-fueltvbrpt-lgbr/cb56381b6570668984c32164d0f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aab6852db80148b6f4adafb8c2360625f5c98435ee3b24af0fdb058108a6ba0ac1f4f922b58e68314c9c94dbd83d64698458220f4479f97a58f821388abab5ff803f17a0d5d34749a857097bb30dcb1a14d1caa580b63217cc29ea1112f56f72fc9e14b9eb1dd47cd51a8ab37807a3eb772e025e603ab1b648d3a8334cd9eb4ca56497985c95e732ea3e4daf193d0ee0f0789d6dadc7c3cb4ff136d42c52ddc2d6b1197e8ca17918164fe33b337d51b7f08f2eb23ab9ca082e1b1c72df6409292accf6a10090b7073bfbbfa2cc8e6707d013e862fcefe306f0dd024e58bdc4c39614ec9b35fdb2c2bb8ce878ce5c35aa06f3655f269d5570423997a3c3cad1af09438639e354aab017daa087bd019bc8f25fbf18fbe4623e38a8e02de7fffb90fe5f3008264281657e0a5620c130c35fbc652201c358349edd8cfa1500c03e7f884bee35b2a0834121d5dd8b4a920d5de8e795d25c05527727d5f42c553983a89723c6a44fe17dda806639646707d94c011691a3dc686e1fbc4bcac63ba70d4c3f8435f185171b23e00662393818457f9375c6d383aa40a7748a9084a4888cd91fdf8600f5c60bb0b5edeba048f6bb7800ed486a175aa7e683b/88/1920x1080_5288800/index.m3u8
-#EXTINF:-1 tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png",Futura
+#EXTINF:-1 tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="CANAIS",Futura
 https://iptv.vivatele.com/live/viva_padrao/viva2384/12.m3u8
 #EXTINF:-1 tvg-name="Globo RJ" tvg-logo="https://files.catbox.moe/hpxpmf.png",Globo RJ
 http://fonte.lista.luxe:80/iptvgood/101011/6928
