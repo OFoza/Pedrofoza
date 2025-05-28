@@ -367,7 +367,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/mtv.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/multishow.m3u8
 #EXTINF:-1 tvg-name="Modo Viagem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1200px-Logotipo_do_Modo_Viagem.svg.png" group-title="CANAIS",Modo Viagem
 http://fonte.lista.luxe:80/live/iptvgood/101011/4800.m3u8
-#EXTINF:-1 tvg-name="Music Box Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1200px-Logotipo_do_Modo_Viagem.svg.png" group-title="CANAIS",Music Box Bazil
+#EXTINF:-1 tvg-name="Music Box Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="CANAIS",Music Box Bazil
 http://fonte.lista.luxe:80/live/iptvgood/101011/6837.m3u8
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="CANAIS",Nick Jr
 http://fonte.lista.luxe:80/live/iptvgood/101011/3865.m3u8
@@ -491,7 +491,7 @@ http://fonte.lista.luxe:80/live/iptvgood/101011/4832.m3u8
 #EXTINF:-1 tvg-name="Love And Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="CANAIS",Love And Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/920bee82-387a-466f-a407-0dd729a6e188/0.m3u8
 #EXTINF:-1 tvg-name="+18 Playboy" tvg-logo="https://files.catbox.moe/vvn5hn.png" group-title="+18🔞",+18 Playboy
-http://fonte.lista.luxe:80/live/iptvgood/101011/3858.m3u8
+http://fonte.lista.luxe:80/live/iptvgood/101011/3857.m3u8
 #EXTINF:-1 tvg-name="+18 Sextreme" tvg-logo="https://files.catbox.moe/qxgmzl.png" group-title="+18🔞",+18 Sextreme
 http://fonte.lista.luxe:80/live/iptvgood/101011/7368.m3u8
 #EXTINF:-1 tvg-name="+18 Sexyhot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sexy_Hot_logo.png/1200px-Sexy_Hot_logo.png" group-title="+18🔞",+18 Sexyhot
