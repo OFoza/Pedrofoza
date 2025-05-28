@@ -7,6 +7,8 @@ http://fonte.lista.luxe:80/live/iptvgood/101011/5903.m3u8
 http://fonte.lista.luxe:80/live/iptvgood/101011/5910.m3u8
 #EXTINF:-1 tvg-name="24H Os Dragon Ball Classico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dragon_Ball_Z_Logo_A.png/1200px-Dragon_Ball_Z_Logo_A.png" group-title="24 HORAS",24H Dragon Ball Z
 http://fonte.lista.luxe:80/live/iptvgood/101011/6065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dragon_Ball_Z_Logo_A.png/1200px-Dragon_Ball_Z_Logo_A.png" group-title="24 HORAS",24H-DRAGON BALL GT
+http://fonte.lista.luxe:80/live/iptvgood/101011/6066.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/2560px-The_Simpsons_yellow_logo.svg.png" group-title="24 HORAS",24H-OS SIMPSONS S01
 http://fonte.lista.luxe:80/live/iptvgood/101011/6366.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/2560px-The_Simpsons_yellow_logo.svg.png" group-title="24 HORAS",24H-OS SIMPSONS S02
@@ -91,117 +93,115 @@ http://fonte.lista.luxe:80/live/iptvgood/101011/6473.m3u8
 https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265_720p_high.m3u8
 #EXTINF:-1 tvg-name="24H Manual do Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo_Manual_do_Mundo_%282021%29.png" group-title="24 HORAS",24H Manual do Mundo
 https://amg17288-offgrid-amg17288c2-lg-br-6103.playouts.now.amagi.tv/playlist/amg17288-offgridcreativecontentfast-manualdomundo-lgbr/cb56381b6570668984c32164d0f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aab6852db80148b6f4adafb8c2360625f5c98435ee3b24af0ace80843db3fa6ac1f4f922a58e68314c9c94eb2d3d0469641d523f910ccc7f28e821388abab5ff803f17a0d5d34749a857097bb30dcb1a14d1caa580b63217cc29ea1112f56f72fc9e14b9eb1dd47cd51a8ab37807a3eb772e025e603ab1b648d3a8334cd9eb4ca56497985c95e732ea3e4daf193d0ee0f0789d6dadc7c3cb4ff136d42c52ddc2d6b1197e8ca17918164fe33b337d51b7f08f2eb23ab9ca082e1b1c72df6409292accf6a10090b7073bfbbfa2cc8e6707d013e862fcefe306f0dd024e58bdc4c39614ec9b35fdb2c2bb8ce878ce5c35aa06f3655f269d5570423997a3c3cad1af09438639e354aab017daa087bd019bc8f25fbf18fbe4623e38a8e02de7fffb90fe5f3008264281657e0a5620c130c35fbc652201c358349edd8cfa1500c03e7f884bee35b2a0834121d5dd8b4a920d5de8e795d25c05527727d5f42c553983a89723c6a44fe17dda806639646707d94c011691a3dc686e1fbc4bcac63ba70d4c3f8435f185171b23e00662393818457f9375c6d383aa40a7748a9084a4888c19005f851ae113d023cd3b323bd415c94d894ff7a5e52fc8e/49/1920x1080_6709560/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-O SHOW DO SCOOBY DOO" tvg-logo="" group-title="24 HORAS",24H-O SHOW DO SCOOBY DOO
+#EXTINF:-1 tvg-id="" tvg-name="24H-O SHOW DO SCOOBY DOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Scooby_doo_logo.png" group-title="24 HORAS",24H-O SHOW DO SCOOBY DOO
 http://fonte.lista.luxe:80/live/iptvgood/101011/6341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S01" tvg-logo="" group-title="24 HORAS",24H-BEN 10 OMNIVERSE S01
+#EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="24 HORAS",24H-BEN 10 OMNIVERSE S01
 http://fonte.lista.luxe:80/live/iptvgood/101011/5923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S02" tvg-logo="" group-title="24 HORAS",24H-BEN 10 OMNIVERSE S02
+#EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="24 HORAS",24H-BEN 10 OMNIVERSE S02
 http://fonte.lista.luxe:80/live/iptvgood/101011/5924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S03" tvg-logo="" group-title="24 HORAS",24H-BEN 10 OMNIVERSE S03
+#EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="24 HORAS",24H-BEN 10 OMNIVERSE S03
 http://fonte.lista.luxe:80/live/iptvgood/101011/5925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S04" tvg-logo="" group-title="24 HORAS",24H-BEN 10 OMNIVERSE S04
+#EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="24 HORAS",24H-BEN 10 OMNIVERSE S04
 http://fonte.lista.luxe:80/live/iptvgood/101011/5926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS JOVENS TITANS" tvg-logo="" group-title="24 HORAS",24H-OS JOVENS TITANS
+#EXTINF:-1 tvg-id="" tvg-name="24H-OS JOVENS TITANS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="24 HORAS",24H-OS JOVENS TITANS
 http://fonte.lista.luxe:80/live/iptvgood/101011/6361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-AS AVENTURAS DE SONIC" tvg-logo="" group-title="24 HORAS",24H-AS AVENTURAS DE SONIC
+#EXTINF:-1 tvg-id="" tvg-name="24H-AS AVENTURAS DE SONIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="24 HORAS",24H-AS AVENTURAS DE SONIC
 http://fonte.lista.luxe:80/live/iptvgood/101011/5900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SONIC BOOM" tvg-logo="" group-title="24 HORAS",24H-SONIC BOOM
+#EXTINF:-1 tvg-id="" tvg-name="24H-SONIC BOOM" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/df/Sonic_1991.png" group-title="24 HORAS",24H-SONIC BOOM
 http://fonte.lista.luxe:80/live/iptvgood/101011/6521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SONIC X" tvg-logo="" group-title="24 HORAS",24H-SONIC X
+#EXTINF:-1 tvg-id="" tvg-name="24H-SONIC X" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/df/Sonic_1991.png" group-title="24 HORAS",24H-SONIC X
 http://fonte.lista.luxe:80/live/iptvgood/101011/6522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-GARFIELD E SEUS AMIGOS" tvg-logo="" group-title="24 HORAS",24H-GARFIELD E SEUS AMIGOS
+#EXTINF:-1 tvg-id="" tvg-name="24H-GARFIELD" tvg-logo="https://files.catbox.moe/49fg6c.png" group-title="24 HORAS",24H-GARFIELD
 http://fonte.lista.luxe:80/live/iptvgood/101011/6131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-TOM E JERRY" tvg-logo="" group-title="24 HORAS",24H-TOM E JERRY
+#EXTINF:-1 tvg-id="" tvg-name="24H-TOM E JERRY" tvg-logo="https://files.catbox.moe/5566ag.png" group-title="24 HORAS",24H-TOM E JERRY
 http://fonte.lista.luxe:80/live/iptvgood/101011/6582.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-A CASA DO MICKEY MOUSE" tvg-logo="" group-title="24 HORAS",24H-A CASA DO MICKEY MOUSE
+#EXTINF:-1 tvg-id="" tvg-name="24H-MICKEY MOUSE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Mickey_Mouse_%282013_TV_series%29_logo.png" group-title="24 HORAS",24H-MICKEY MOUSE
 http://fonte.lista.luxe:80/live/iptvgood/101011/5867.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-AVATAR" tvg-logo="" group-title="24 HORAS",24H-AVATAR
+#EXTINF:-1 tvg-id="" tvg-name="24H-AVATAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_de_Avatar_la_leyenda_de_Aang.png/1200px-Logo_de_Avatar_la_leyenda_de_Aang.png" group-title="24 HORAS",24H-AVATAR
 http://fonte.lista.luxe:80/live/iptvgood/101011/5908.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-BABY LOONEY TUNES" tvg-logo="" group-title="24 HORAS",24H-BABY LOONEY TUNES
+#EXTINF:-1 tvg-id="" tvg-name="24H-BABY LOONEY TUNES" tvg-logo="https://files.catbox.moe/7dkqul.png" group-title="24 HORAS",24H-BABY LOONEY TUNES
 http://fonte.lista.luxe:80/live/iptvgood/101011/5909.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-BATMAN" tvg-logo="" group-title="24 HORAS",24H-BATMAN
+#EXTINF:-1 tvg-id="" tvg-name="24H-BATMAN" tvg-logo="https://images.seeklogo.com/logo-png/48/2/batman-logo-png_seeklogo-481510.png" group-title="24 HORAS",24H-BATMAN
 http://fonte.lista.luxe:80/live/iptvgood/101011/5920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 1 TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 1 TEMPORADA
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 1 TEMPORADA" tvg-logo="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29192010/cavaleiros-do-zodiaco-logo-7BEBD54081-seeklogo.com.png" group-title="24 HORAS",24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 1 TEMPORADA
 http://fonte.lista.luxe:80/live/iptvgood/101011/5969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 2 TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 2 TEMPORADA
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 2 TEMPORADA" tvg-logo="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29192010/cavaleiros-do-zodiaco-logo-7BEBD54081-seeklogo.com.png" group-title="24 HORAS",24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 2 TEMPORADA
 http://fonte.lista.luxe:80/live/iptvgood/101011/5970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO  SAGA DE ASGARD" tvg-logo="" group-title="24 HORAS",24H-CAVALEIROS DO ZODIACO  SAGA DE ASGARD
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO  SAGA DE ASGARD" tvg-logo="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29192010/cavaleiros-do-zodiaco-logo-7BEBD54081-seeklogo.com.png" group-title="24 HORAS",24H-CAVALEIROS DO ZODIACO  SAGA DE ASGARD
 http://fonte.lista.luxe:80/live/iptvgood/101011/5971.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO  SAGA DE POSEIDON" tvg-logo="" group-title="24 HORAS",24H-CAVALEIROS DO ZODIACO  SAGA DE POSEIDON
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO  SAGA DE POSEIDON" tvg-logo="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29192010/cavaleiros-do-zodiaco-logo-7BEBD54081-seeklogo.com.png" group-title="24 HORAS",24H-CAVALEIROS DO ZODIACO  SAGA DE POSEIDON
 http://fonte.lista.luxe:80/live/iptvgood/101011/5972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO" tvg-logo="" group-title="24 HORAS",24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO" tvg-logo="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29192010/cavaleiros-do-zodiaco-logo-7BEBD54081-seeklogo.com.png" group-title="24 HORAS",24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO
 http://fonte.lista.luxe:80/live/iptvgood/101011/5973.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVERNA DO DRAGAO" tvg-logo="" group-title="24 HORAS",24H-CAVERNA DO DRAGAO
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVERNA DO DRAGAO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/01/Caverna_do_Drag%C3%A3o_Logo.jpg" group-title="24 HORAS",24H-CAVERNA DO DRAGAO
 http://fonte.lista.luxe:80/live/iptvgood/101011/5974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHANPOLIN COLORADO" tvg-logo="" group-title="24 HORAS",24H-CHANPOLIN COLORADO
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHANPOLIN COLORADO" tvg-logo="https://images.seeklogo.com/logo-png/20/2/chapolin-logo-png_seeklogo-208768.png" group-title="24 HORAS",24H-CHANPOLIN COLORADO
 http://fonte.lista.luxe:80/live/iptvgood/101011/5975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAPOLIN" tvg-logo="" group-title="24 HORAS",24H-CHAPOLIN
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAPOLIN" tvg-logo="https://images.seeklogo.com/logo-png/20/2/chapolin-logo-png_seeklogo-208768.png" group-title="24 HORAS",24H-CHAPOLIN
 http://fonte.lista.luxe:80/live/iptvgood/101011/5976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES" tvg-logo="" group-title="24 HORAS",24H-CHAVES
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES" tvg-logo="https://files.catbox.moe/181zwa.png" group-title="24 HORAS",24H-CHAVES
 http://fonte.lista.luxe:80/live/iptvgood/101011/5978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES  DESENHO SEGUNDA TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-CHAVES  DESENHO SEGUNDA TEMPORADA
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES  DESENHO SEGUNDA TEMPORADA" tvg-logo="https://files.catbox.moe/181zwa.png" group-title="24 HORAS",24H-CHAVES  DESENHO SEGUNDA TEMPORADA
 http://fonte.lista.luxe:80/live/iptvgood/101011/5979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S01" tvg-logo="" group-title="24 HORAS",24H-CHAVES CLASSICO S01
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S01" tvg-logo="https://files.catbox.moe/181zwa.png" group-title="24 HORAS",24H-CHAVES CLASSICO S01
 http://fonte.lista.luxe:80/live/iptvgood/101011/5980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S02" tvg-logo="" group-title="24 HORAS",24H-CHAVES CLASSICO S02
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S02" tvg-logo="https://files.catbox.moe/181zwa.png" group-title="24 HORAS",24H-CHAVES CLASSICO S02
 http://fonte.lista.luxe:80/live/iptvgood/101011/5981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S03" tvg-logo="" group-title="24 HORAS",24H-CHAVES CLASSICO S03
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S03" tvg-logo="https://files.catbox.moe/181zwa.png" group-title="24 HORAS",24H-CHAVES CLASSICO S03
 http://fonte.lista.luxe:80/live/iptvgood/101011/5982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S04" tvg-logo="" group-title="24 HORAS",24H-CHAVES CLASSICO S04
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S04" tvg-logo="https://files.catbox.moe/181zwa.png" group-title="24 HORAS",24H-CHAVES CLASSICO S04
 http://fonte.lista.luxe:80/live/iptvgood/101011/5983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S05" tvg-logo="" group-title="24 HORAS",24H-CHAVES CLASSICO S05
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S05" tvg-logo="https://files.catbox.moe/181zwa.png" group-title="24 HORAS",24H-CHAVES CLASSICO S05
 http://fonte.lista.luxe:80/live/iptvgood/101011/5984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S06" tvg-logo="" group-title="24 HORAS",24H-CHAVES CLASSICO S06
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S06" tvg-logo="https://files.catbox.moe/181zwa.png" group-title="24 HORAS",24H-CHAVES CLASSICO S06
 http://fonte.lista.luxe:80/live/iptvgood/101011/5985.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S07" tvg-logo="" group-title="24 HORAS",24H-CHAVES CLASSICO S07
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S07" tvg-logo="https://files.catbox.moe/181zwa.png" group-title="24 HORAS",24H-CHAVES CLASSICO S07
 http://fonte.lista.luxe:80/live/iptvgood/101011/5986.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES DESENHO PRIMEIRA TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-CHAVES DESENHO PRIMEIRA TEMPORADA
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES DESENHO PRIMEIRA TEMPORADA" tvg-logo="https://files.catbox.moe/181zwa.png" group-title="24 HORAS",24H-CHAVES DESENHO PRIMEIRA TEMPORADA
 http://fonte.lista.luxe:80/live/iptvgood/101011/5987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES DESENHO QUARTA TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-CHAVES DESENHO QUARTA TEMPORADA
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES DESENHO QUARTA TEMPORADA" tvg-logo="https://files.catbox.moe/181zwa.png" group-title="24 HORAS",24H-CHAVES DESENHO QUARTA TEMPORADA
 http://fonte.lista.luxe:80/live/iptvgood/101011/5988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES DESENHO TERCEIRA TEMPORADA" tvg-logo="" group-title="24 HORAS",24H-CHAVES DESENHO TERCEIRA TEMPORADA
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES DESENHO TERCEIRA TEMPORADA" tvg-logo="https://files.catbox.moe/181zwa.png" group-title="24 HORAS",24H-CHAVES DESENHO TERCEIRA TEMPORADA
 http://fonte.lista.luxe:80/live/iptvgood/101011/5989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CLARENCIO O OTIMISTA" tvg-logo="" group-title="24 HORAS",24H-CLARENCIO O OTIMISTA
+#EXTINF:-1 tvg-id="" tvg-name="24H-CLARENCIO O OTIMISTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Clarence_%282014%29_logotype.svg/300px-Clarence_%282014%29_logotype.svg.png" group-title="24 HORAS",24H-CLARENCIO O OTIMISTA
 http://fonte.lista.luxe:80/live/iptvgood/101011/5992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-01" tvg-logo="" group-title="24 HORAS",24H-DC COMICS-01
+#EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/DC_Comics_logo.png" group-title="24 HORAS",24H-DC COMICS-01
 http://fonte.lista.luxe:80/live/iptvgood/101011/6002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-02" tvg-logo="" group-title="24 HORAS",24H-DC COMICS-02
+#EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/DC_Comics_logo.png" group-title="24 HORAS",24H-DC COMICS-02
 http://fonte.lista.luxe:80/live/iptvgood/101011/6003.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="24H-DESENHOS BIBLICOS" tvg-logo="" group-title="24 HORAS",24H-DESENHOS BIBLICOS
 http://fonte.lista.luxe:80/live/iptvgood/101011/6041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DORA A AVENTUREIRA" tvg-logo="" group-title="24 HORAS",24H-DORA A AVENTUREIRA
+#EXTINF:-1 tvg-id="" tvg-name="24H-DORA A AVENTUREIRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Dora_the_Explorer_logo.png" group-title="24 HORAS",24H-DORA A AVENTUREIRA
 http://fonte.lista.luxe:80/live/iptvgood/101011/6062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL GT" tvg-logo="" group-title="24 HORAS",24H-DRAGON BALL GT
-http://fonte.lista.luxe:80/live/iptvgood/101011/6066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-GATO DE BOTAS" tvg-logo="" group-title="24 HORAS",24H-GATO DE BOTAS
+#EXTINF:-1 tvg-id="" tvg-name="24H-GATO DE BOTAS" tvg-logo="https://files.catbox.moe/b76kpv.png" group-title="24 HORAS",24H-GATO DE BOTAS
 http://fonte.lista.luxe:80/live/iptvgood/101011/6134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-FILMES 1" tvg-logo="" group-title="24 HORAS",24H-MARVEL-FILMES 1
+#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-FILMES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/2560px-Marvel_Logo.svg.png" group-title="24 HORAS",24H-MARVEL-FILMES 1
 http://fonte.lista.luxe:80/live/iptvgood/101011/6241.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-FILMES 2" tvg-logo="" group-title="24 HORAS",24H-MARVEL-FILMES 2
+#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-FILMES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/2560px-Marvel_Logo.svg.png" group-title="24 HORAS",24H-MARVEL-FILMES 2
 http://fonte.lista.luxe:80/live/iptvgood/101011/6242.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MORANGUINHO" tvg-logo="" group-title="24 HORAS",24H-MORANGUINHO
+#EXTINF:-1 tvg-id="" tvg-name="24H-MORANGUINHO" tvg-logo="https://files.catbox.moe/647q32.png" group-title="24 HORAS",24H-MORANGUINHO
 http://fonte.lista.luxe:80/live/iptvgood/101011/6288.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MORTAL KOMBAT" tvg-logo="" group-title="24 HORAS",24H-MORTAL KOMBAT
+#EXTINF:-1 tvg-id="" tvg-name="24H-MORTAL KOMBAT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0f/Mortal_kombat_logo.png" group-title="24 HORAS",24H-MORTAL KOMBAT
 http://fonte.lista.luxe:80/live/iptvgood/101011/6289.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO" tvg-logo="https://logopng.com.br/logos/naruto-138.png" group-title="24 HORAS",24H-NARUTO CLASSICO
 http://fonte.lista.luxe:80/live/iptvgood/101011/6310.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S01" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S01
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S01" tvg-logo="https://logopng.com.br/logos/naruto-138.png" group-title="24 HORAS",24H-NARUTO CLASSICO S01
 http://fonte.lista.luxe:80/live/iptvgood/101011/6311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S02" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S02
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S02" tvg-logo="https://logopng.com.br/logos/naruto-138.png" group-title="24 HORAS",24H-NARUTO CLASSICO S02
 http://fonte.lista.luxe:80/live/iptvgood/101011/6312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S03" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S03
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S03" tvg-logo="https://logopng.com.br/logos/naruto-138.png" group-title="24 HORAS",24H-NARUTO CLASSICO S03
 http://fonte.lista.luxe:80/live/iptvgood/101011/6313.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S04" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S04
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S04" tvg-logo="https://logopng.com.br/logos/naruto-138.png" group-title="24 HORAS",24H-NARUTO CLASSICO S04
 http://fonte.lista.luxe:80/live/iptvgood/101011/6314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S05" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S05
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S05" tvg-logo="https://logopng.com.br/logos/naruto-138.png" group-title="24 HORAS",24H-NARUTO CLASSICO S05
 http://fonte.lista.luxe:80/live/iptvgood/101011/6315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S06" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S06
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S06" tvg-logo="https://logopng.com.br/logos/naruto-138.png" group-title="24 HORAS",24H-NARUTO CLASSICO S06
 http://fonte.lista.luxe:80/live/iptvgood/101011/6316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S07" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S07
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S07" tvg-logo="https://logopng.com.br/logos/naruto-138.png" group-title="24 HORAS",24H-NARUTO CLASSICO S07
 http://fonte.lista.luxe:80/live/iptvgood/101011/6317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S08" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S08
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S08" tvg-logo="https://logopng.com.br/logos/naruto-138.png" group-title="24 HORAS",24H-NARUTO CLASSICO S08
 http://fonte.lista.luxe:80/live/iptvgood/101011/6318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S09" tvg-logo="" group-title="24 HORAS",24H-NARUTO CLASSICO S09
+#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S09" tvg-logo="https://logopng.com.br/logos/naruto-138.png" group-title="24 HORAS",24H-NARUTO CLASSICO S09
 http://fonte.lista.luxe:80/live/iptvgood/101011/6319.m3u8
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_a&e0001.png" group-title="CANAIS",A&E
 https://mf.fazoeli.co.za/fontes/megaflix/ae.m3u8
@@ -229,7 +229,7 @@ https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w708199981.m3
 https://mf.fazoeli.co.za/fontes/megaflix/bandnews.m3u8
 #EXTINF:-1 tvg-name="Band News RJ" tvg-logo="https://files.catbox.moe/1now9h.png" group-title="CANAIS",Band News RJ
 https://iptv.vivatele.com/live/viva_padrao/viva2384/21.m3u8
-#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png",Band Sports
+#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png" group-title="CANAIS",Band Sports
 https://mf.fazoeli.co.za/fontes/megaflix/bandsports.m3u8
 #EXTINF:-1 tvg-name="Bis" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="CANAIS",Bis
 http://fonte.lista.luxe:80/live/iptvgood/101011/4762.m3u8
@@ -259,7 +259,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/cinemax.m3u8
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN Money Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/CNN_Money_logo_%28old%29.png" group-title="CANAIS",CNN Money Brasil
 https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
-#EXTINF:-1 tvg-name="Combate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png",Combate
+#EXTINF:-1 tvg-name="Combate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="CANAIS",Combate
 https://mf.fazoeli.co.za/fontes/megaflix/combate.m3u8
 #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="CANAIS",Comedy Central
 https://mf.fazoeli.co.za/fontes/megaflix/comedycentral.m3u8
