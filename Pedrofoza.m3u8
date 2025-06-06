@@ -40,9 +40,9 @@ https://iptv.vivatele.com/live/viva_padrao/viva2384/5.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cartoon0001.png" group-title="CANAIS",Cartoon Network
 https://mf.fazoeli.co.za/fontes/megaflix/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network ALT" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cartoon0001.png" group-title="CANAIS",Cartoon Network ALT
-http://fonte.lista.luxe/live/iptvgood/101011/4039.m3u8
+http://185.236.183.118:14094/
 #EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="CANAIS",Cartoonito
-https://mf.fazoeli.co.za/fontes/megaflix/cartoonito.m3u8
+http://185.236.183.118:14095/
 #EXTINF:-1 tvg-name="Cazé TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" group-title="CANAIS",Cazé TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/Cinemax.png" group-title="CANAIS",Cinemax
