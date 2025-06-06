@@ -40,9 +40,9 @@ https://iptv.vivatele.com/live/viva_padrao/viva2384/5.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cartoon0001.png" group-title="CANAIS",Cartoon Network
 https://mf.fazoeli.co.za/fontes/megaflix/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network ALT" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cartoon0001.png" group-title="CANAIS",Cartoon Network ALT
-http://185.236.183.118:14094/
+http://185.236.183.118:14094/1.m3u8
 #EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="CANAIS",Cartoonito
-http://185.236.183.118:14095/
+http://185.236.183.118:14095/1.m3u8
 #EXTINF:-1 tvg-name="Cazé TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" group-title="CANAIS",Cazé TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204v/assets/images/canais/Cinemax.png" group-title="CANAIS",Cinemax
@@ -264,6 +264,8 @@ https://iptv.vivatele.com/live/viva_padrao/viva2384/6.m3u8
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-name="TV Rá Tim Bum!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS",TV Rá Tim Bum!
 https://iptv.vivatele.com/live/viva_padrao/viva2384/15.m3u8
+#EXTINF:-1 tvg-name="Tooncast" tvg-logo="https://files.catbox.moe/jewa55.png" group-title="CANAIS",Tooncast
+https://cdn-fortaleza-1.nxplay.com.br/TOONCAST_TK/video.m3u8
 #EXTINF:-1 tvg-name="UFC Fight Pass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/2560px-UFC_Fight_Pass_Logo.svg.png" group-title="CANAIS",UFC Fight Pass
 http://ap4x.online:80/Alexandre8088/275143031/3558423.m3u8
 #EXTINF:-1 tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="CANAIS",Universal TV
