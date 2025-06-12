@@ -26,7 +26,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/bandsports.m3u8
 #EXTINF:-1 tvg-name="Bis" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="CANAIS",Bis
 http://ap4x.online:80/Alexandre8088/275143031/2475427.m3u8
 #EXTINF:-1 tvg-name="Canal Goat" tvg-logo="https://canalgoat.com.br/wp-content/uploads/2024/10/Canal-Goat-Escudo-Color.png" group-title="CANAIS",Canal Goat
-https://mf.fazoeli.co.za/fontes/megaflix/goat.m3u8
+
 #EXTINF:-1 tvg-name="Canal Gov" tvg-logo="https://canalgov.ebc.com.br/@@site-logo/Artboard%201@2x.png" group-title="CANAIS",Canal Gov
 https://canalgov-stream.ebc.com.br/GOV-avc1_1800000=10000.m3u8
 #EXTINF:-1 tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/8PuNxoS.png" group-title="CANAIS",Canal Brasil
@@ -38,7 +38,7 @@ https://iptv.vivatele.com/live/viva_padrao/viva2384/7.m3u8
 #EXTINF:-1 tvg-name="Canção Nova" tvg-logo="https://arquidiocesecampinas.com/wp-content/uploads/2012/11/LOGO-Can%C3%A7%C3%A3o-Nova.png" group-title="CANAIS",Canção Nova
 https://iptv.vivatele.com/live/viva_padrao/viva2384/5.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cartoon0001.png" group-title="CANAIS",Cartoon Network
-https://mf.fazoeli.co.za/fontes/megaflix/cartoonnetwork.m3u8
+https://m3u8.aipapai.shop/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network ALT" tvg-logo="https://explouddev.com.br/maxnettv/logos/mntv_cartoon0001.png" group-title="CANAIS",Cartoon Network ALT
 http://185.236.183.118:14094/1.m3u8
 #EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="CANAIS",Cartoonito
