@@ -251,7 +251,7 @@ https://mf.fazoeli.co.za/fontes/megaflix/tntnovelas.m3u8
 https://mf.fazoeli.co.za/fontes/megaflix/tntseries.m3u8
 #EXTINF:-1 tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png  ",TNT Sports
 #EXTINF:-1 tvg-name="TV Aparecida" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="CANAIS",TV Aparecida
-https://cc-oeelrj1iysbeq.akamaized.net/TV_Aparecida/TV_Aparecida_BR/TV_Aparecida1080p.m3u8
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:-1 tvg-name="TV Aparecida ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="CANAIS",TV Aparecida ALT
 https://iptv.vivatele.com/live/viva_padrao/viva2384/17.m3u8
 #EXTINF:-1 tvg-name="Travel Box Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TravelBoxBrazilLogo.png" group-title="CANAIS",Travel Box Brazil
