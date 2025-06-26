@@ -3,9 +3,9 @@
 https://mf.fazoeli.co.za/fontes/megaflix/ae.m3u8
 #EXTINF:-1 tvg-name="Adult Swim" tvg-logo="https://i.imgur.com/4TEXo8R.png" group-title="CANAIS",Adult Swim
 https://mf.fazoeli.co.za/fontes/megaflix/adultswim.m3u8
-#EXTINF:-1 tvg-name="AMC" tvg-logo="https://www.gruporedeamazonica.com.br/files/amazonsat/AMAZON-SAT-01.png group-title="CANAIS"",AMC
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CANAIS"",AMC
 http://ap4x.online:80/Alexandre8088/275143031/2473958.m3u8
-#EXTINF:-1 tvg-name="Amazon Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CANAIS",Amazon Sat
+#EXTINF:-1 tvg-name="Amazon Sat" tvg-logo="https://www.gruporedeamazonica.com.br/files/amazonsat/AMAZON-SAT-01.png" group-title="CANAIS",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="CANAIS",AXN
 https://mf.fazoeli.co.za/fontes/megaflix/axn.m3u8
